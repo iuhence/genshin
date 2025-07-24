@@ -55,4 +55,12 @@
     "rarity": "ssr",
     "image": "PlayerBoy"
   }
+  {
+  "id": "101",
+    "name": "Ineffra",
+    "element": "cryo",
+    "weapon": "polearm",
+    "rarity": "ssr",
+    "image": "Ineffa"
+  }
 ]
