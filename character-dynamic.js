@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => {
   const baseUrls = {
     element: "https://raw.githubusercontent.com/iuhence/genshin/main/elements/",
     weapon: "https://raw.githubusercontent.com/iuhence/genshin/main/weapons/"
@@ -22,21 +22,34 @@ document.addEventListener("DOMContentLoaded", () => {
     bow: "Bow"
   };
 
-  // Loop through character containers
-  document.querySelectorAll(".character-container").forEach((container, index) => {
-    const character = characterData[index]; // assumes same order
+  try {
+    // Fetch character data from your JSON file
+    const response = await fetch("https://raw.githubusercontent.com/iuhence/genshin/main/characters.json");
+    const characterData = await response.json();
 
-    const elementImg = container.querySelector(".character-element");
-    const weaponImg = container.querySelector(".character-weapon");
+    // Match each character container to data
+    document.querySelectorAll(".character-container").forEach((container, index) => {
+      const character = characterData[index]; // relies on same order
 
-    if (elementImg && character.element) {
-      elementImg.src = `${baseUrls.element}UI_Buff_Element_${elementMap[character.element]}.png`;
-      elementImg.alt = character.element;
-    }
+      const elementImg = container.querySelector(".character-element");
+      const weaponImg = container.querySelector(".character-weapon");
 
-    if (weaponImg && character.weapon) {
-      weaponImg.src = `${baseUrls.weapon}Skill_Normal_${weaponMap[character.weapon]}.png`;
-      weaponImg.alt = character.weapon;
-    }
-  });
+      if (elementImg && character?.element) {
+        elementImg.src = `${baseUrls.element}UI_Buff_Element_${elementMap[character.element]}.png`;
+        elementImg.alt = character.element;
+      }
+
+      if (weaponImg && character?.weapon) {
+        weaponImg.src = `${baseUrls.weapon}Skill_Normal_${weaponMap[character.weapon]}.png`;
+        weaponImg.alt = character.weapon;
+      }
+
+      const nameDiv = container.querySelector(".character-name");
+      if (nameDiv && character?.name) {
+        nameDiv.textContent = character.name;
+      }
+    });
+  } catch (err) {
+    console.error("Failed to load character data:", err);
+  }
 });
