@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Anemo Traveler",
+    "element": "anemo",
+    "weapon": "sword",
+    "rarity": 5,
+    "affiliation": "–"
+  },
+  {
+    "id": 2,
+    "name": "Geo Traveler",
+    "element": "geo",
+    "weapon": "sword",
+    "rarity": 5,
+    "affiliation": "–"
+  },
+  {
+    "id": 3,
+    "name": "Electro Traveler",
+    "element": "electro",
+    "weapon": "sword",
+    "rarity": 5,
+    "affiliation": "–"
+  },
+  {
+    "id": 4,
+    "name": "Dendro Traveler",
+    "element": "dendro",
+    "weapon": "sword",
+    "rarity": 5,
+    "affiliation": "–"
+  },
+  {
+    "id": 5,
+    "name": "Hydro Traveler",
+    "element": "hydro",
+    "weapon": "sword",
+    "rarity": 5,
+    "affiliation": "–"
+  },
+  {
+    "id": 6,
+    "name": "Pyro Traveler",
+    "element": "pyro",
+    "weapon": "sword",
+    "rarity": 5,
+    "affiliation": "–"
+  },
+  {
+    "id": 7,
+    "name": "Cryo Traveler",
+    "element": "cryo",
+    "weapon": "sword",
+    "rarity": 5,
+    "affiliation": "–"
+  }
+]
