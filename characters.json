@@ -1,58 +1,58 @@
 [
   {
-    "id": 1,
-    "name": "Anemo Traveler",
+    "id": "01",
+    "name": "Traveler (Anemo)",
     "element": "anemo",
     "weapon": "sword",
-    "rarity": 5,
-    "affiliation": "–"
+    "rarity": "ssr",
+    "image": "UI_AvatarIcon_PlayerBoy"
   },
   {
-    "id": 2,
-    "name": "Geo Traveler",
+    "id": "02",
+    "name": "Traveler (Geo)",
     "element": "geo",
     "weapon": "sword",
-    "rarity": 5,
-    "affiliation": "–"
+    "rarity": "ssr",
+    "image": "UI_AvatarIcon_PlayerBoy"
   },
   {
-    "id": 3,
-    "name": "Electro Traveler",
+    "id": "03",
+    "name": "Traveler (Electro)",
     "element": "electro",
     "weapon": "sword",
-    "rarity": 5,
-    "affiliation": "–"
+    "rarity": "ssr",
+    "image": "UI_AvatarIcon_PlayerBoy"
   },
   {
-    "id": 4,
-    "name": "Dendro Traveler",
+    "id": "04",
+    "name": "Traveler (Dendro)",
     "element": "dendro",
     "weapon": "sword",
-    "rarity": 5,
-    "affiliation": "–"
+    "rarity": "ssr",
+    "image": "UI_AvatarIcon_PlayerBoy"
   },
   {
-    "id": 5,
-    "name": "Hydro Traveler",
+    "id": "05",
+    "name": "Traveler (Hydro)",
     "element": "hydro",
     "weapon": "sword",
-    "rarity": 5,
-    "affiliation": "–"
+    "rarity": "ssr",
+    "image": "UI_AvatarIcon_PlayerBoy"
   },
   {
-    "id": 6,
-    "name": "Pyro Traveler",
+    "id": "06",
+    "name": "Traveler (Pyro)",
     "element": "pyro",
     "weapon": "sword",
-    "rarity": 5,
-    "affiliation": "–"
+    "rarity": "ssr",
+    "image": "UI_AvatarIcon_PlayerBoy"
   },
   {
-    "id": 7,
-    "name": "Cryo Traveler",
+    "id": "07",
+    "name": "Traveler (Cryo)",
     "element": "cryo",
     "weapon": "sword",
-    "rarity": 5,
-    "affiliation": "–"
+    "rarity": "ssr",
+    "image": "UI_AvatarIcon_PlayerBoy"
   }
 ]
