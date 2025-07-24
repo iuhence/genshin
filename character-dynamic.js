@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   };
 
   try {
-    const response = await fetch("https://raw.githubusercontent.com/iuhence/genshin/main/characters.json");
+    const response = await fetch("https://iuhence.github.io/genshin/characters.json");
     const characters = await response.json();
 
     const grid = document.getElementById("character-grid");
