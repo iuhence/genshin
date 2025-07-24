@@ -54,5 +54,13 @@
     "weapon": "sword",
     "rarity": "ssr",
     "image": "PlayerBoy"
+  },
+  {
+    "id": "08",
+    "name": "Mavuika",
+    "element": "pyro",
+    "weapon": "claymore",
+    "rarity": "ssr",
+    "image": "Mavuika"
   }
  ]
