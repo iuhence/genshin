@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", async () => {
   const baseUrls = {
     element: "https://raw.githubusercontent.com/iuhence/genshin/main/elements/",
@@ -103,5 +102,3 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.error("Failed to load character data:", err);
   }
 });
-
-</script>
