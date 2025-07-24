@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         <button class="character-button character-${character.rarity.toLowerCase()} character-triquetra">
           <img class="character-element" src="${baseUrls.element}UI_Buff_Element_${elementMap[character.element]}.png" alt="${character.element}" />
           <img class="character-weapon" src="${baseUrls.weapon}Skill_Normal_${weaponMap[character.weapon]}.png" alt="${character.weapon}" />
-          <img class="character" src="${character.image}" alt="${character.name}" />
+          <img class="character" src="https://gi.yatta.moe/assets/UI/UI_AvatarIcon_${character.image}.png" alt="${character.name}" />
         </button>
         <div class="character-name">${character.name}</div>
       `;
