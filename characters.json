@@ -55,12 +55,4 @@
     "rarity": "ssr",
     "image": "PlayerBoy"
   },
-  {
-  "id": "08",
-    "name": "Skirk",
-    "element": "cryo",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "SkirkNew"
-  }
-]
+ ]
