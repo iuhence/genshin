@@ -5,7 +5,7 @@
     "element": "anemo",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "UI_AvatarIcon_PlayerBoy"
+    "image": "PlayerBoy"
   },
   {
     "id": "02",
@@ -13,7 +13,7 @@
     "element": "geo",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "UI_AvatarIcon_PlayerBoy"
+    "image": "PlayerBoy"
   },
   {
     "id": "03",
@@ -21,7 +21,7 @@
     "element": "electro",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "UI_AvatarIcon_PlayerBoy"
+    "image": "PlayerBoy"
   },
   {
     "id": "04",
@@ -29,7 +29,7 @@
     "element": "dendro",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "UI_AvatarIcon_PlayerBoy"
+    "image": "PlayerBoy"
   },
   {
     "id": "05",
@@ -37,7 +37,7 @@
     "element": "hydro",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "UI_AvatarIcon_PlayerBoy"
+    "image": "PlayerBoy"
   },
   {
     "id": "06",
@@ -45,7 +45,7 @@
     "element": "pyro",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "UI_AvatarIcon_PlayerBoy"
+    "image": "PlayerBoy"
   },
   {
     "id": "07",
@@ -53,6 +53,6 @@
     "element": "cryo",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "UI_AvatarIcon_PlayerBoy"
+    "image": "PlayerBoy"
   }
 ]
