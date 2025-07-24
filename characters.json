@@ -56,11 +56,11 @@
     "image": "PlayerBoy"
   }
   {
-  "id": "101",
-    "name": "Ineffra",
+  "id": "100",
+    "name": "Skirk",
     "element": "cryo",
-    "weapon": "polearm",
+    "weapon": "sword",
     "rarity": "ssr",
-    "image": "Ineffa"
+    "image": "Skirk"
   }
 ]
