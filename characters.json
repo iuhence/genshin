@@ -102,5 +102,13 @@
     "weapon": "claymore",
     "rarity": "ssr",
     "image": "Mavuika"
+  },
+  {
+    "id": "999",
+    "name": "Tsaritsa",
+    "element": "cryo",
+    "weapon": "catalyst",
+    "rarity": "ssr",
+    "image": "Bronya"
   }
  ]
