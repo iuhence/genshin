@@ -56,7 +56,47 @@
     "image": "PlayerBoy"
   },
   {
-    "id": "08",
+    "id": "22",
+    "name": "Venti",
+    "element": "anemo",
+    "weapon": "bow",
+    "rarity": "ssr",
+    "image": "Venti"
+  },
+  {
+    "id": "30",
+    "name": "Zhongli",
+    "element": "geo",
+    "weapon": "polearm",
+    "rarity": "ssr",
+    "image": "Zhongli"
+  },
+  {
+    "id": "52",
+    "name": "Raiden Shogun",
+    "element": "electro",
+    "weapon": "polearm",
+    "rarity": "ssr",
+    "image": "Shogun"
+  },
+  {
+    "id": "73",
+    "name": "Nahida",
+    "element": "dendro",
+    "weapon": "catalyst",
+    "rarity": "ssr",
+    "image": "Nahida"
+  },
+  {
+    "id": "89",
+    "name": "Furina",
+    "element": "hydro",
+    "weapon": "sword",
+    "rarity": "ssr",
+    "image": "Furina"
+  },
+  {
+    "id": "106",
     "name": "Mavuika",
     "element": "pyro",
     "weapon": "claymore",
