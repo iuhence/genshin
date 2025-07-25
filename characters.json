@@ -112,6 +112,14 @@
     "image": "Mavuika"
   },
   {
+    "id": "110",
+    "name": "Iansan",
+    "element": "electro",
+    "weapon": "polearm",
+    "rarity": "sr",
+    "image": "Iansan"
+  },
+  {
     "id": "111",
     "name": "Varesa",
     "element": "electro",
@@ -129,11 +137,11 @@
   },
   {
     "id": "113",
-    "name": "Dahlia",
-    "element": "hydro",
-    "weapon": "sword",
+    "name": "Ifa",
+    "element": "anemo",
+    "weapon": "catalyst",
     "rarity": "sr",
-    "image": "Dahlia"
+    "image": "Ifa"
   },
   {
     "id": "114",
@@ -142,9 +150,17 @@
     "weapon": "sword",
     "rarity": "ssr",
     "image": "Skirk"
-  },
+  }, 
   {
     "id": "115",
+    "name": "Dahlia",
+    "element": "hydro",
+    "weapon": "sword",
+    "rarity": "sr",
+    "image": "Dahlia"
+  },
+  {
+    "id": "116",
     "name": "Ineffra",
     "element": "electro",
     "weapon": "polearm",
