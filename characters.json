@@ -13,7 +13,7 @@
     "element": "geo",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "PlayerBoy"
+    "image": "PlayerGirl"
   },
   {
     "id": "03",
@@ -29,7 +29,7 @@
     "element": "dendro",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "PlayerBoy"
+    "image": "PlayerGirl"
   },
   {
     "id": "05",
@@ -45,7 +45,7 @@
     "element": "pyro",
     "weapon": "sword",
     "rarity": "ssr",
-    "image": "PlayerBoy"
+    "image": "PlayerGirl"
   },
   {
     "id": "07",
