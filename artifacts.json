@@ -13,5 +13,20 @@
     "id": "15038",
     "name": "Obsidian Codex",
     "image": "UI_RelicIcon_15038_4"
+  },
+  {
+    "id": "15037",
+    "name": "Scroll of the Hero of Cinder City",
+    "image": "UI_RelicIcon_15037_4"
+  },
+  {
+    "id": "15036",
+    "name": "Unfinished Reverie",
+    "image": "UI_RelicIcon_15036_4"
+  },
+  {
+    "id": "15036",
+    "name": "Fragment of Harmonic Whimsy",
+    "image": "UI_RelicIcon_15035_4"
   }
 ]
