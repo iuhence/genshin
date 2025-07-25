@@ -1,7 +1,7 @@
 [
   {
     "id": "01",
-    "name": "Traveler (Anemo)",
+    "name": "Traveler",
     "element": "anemo",
     "weapon": "sword",
     "rarity": "sr",
@@ -9,7 +9,7 @@
   },
   {
     "id": "02",
-    "name": "Traveler (Geo)",
+    "name": "Traveler",
     "element": "geo",
     "weapon": "sword",
     "rarity": "sr",
@@ -17,7 +17,7 @@
   },
   {
     "id": "03",
-    "name": "Traveler (Electro)",
+    "name": "Traveler",
     "element": "electro",
     "weapon": "sword",
     "rarity": "ssr",
@@ -25,7 +25,7 @@
   },
   {
     "id": "04",
-    "name": "Traveler (Dendro)",
+    "name": "Traveler",
     "element": "dendro",
     "weapon": "sword",
     "rarity": "ssr",
@@ -33,7 +33,7 @@
   },
   {
     "id": "05",
-    "name": "Traveler (Hydro)",
+    "name": "Traveler",
     "element": "hydro",
     "weapon": "sword",
     "rarity": "ssr",
@@ -41,7 +41,7 @@
   },
   {
     "id": "06",
-    "name": "Traveler (Pyro)",
+    "name": "Traveler",
     "element": "pyro",
     "weapon": "sword",
     "rarity": "ssr",
@@ -49,7 +49,7 @@
   },
   {
     "id": "07",
-    "name": "Traveler (Cryo)",
+    "name": "Traveler",
     "element": "cryo",
     "weapon": "sword",
     "rarity": "ssr",
