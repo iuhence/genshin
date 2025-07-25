@@ -47,3 +47,19 @@
       console.error("❌ Failed to load characters.json:", err);
     }
   });
+
+ document.addEventListener('DOMContentLoaded', () => {
+  const baseUrl = "https://raw.githubusercontent.com/iuhence/genshin/main/elements/";
+
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    const element = btn.dataset.element;
+    const img = document.createElement('img');
+    img.src = `${baseUrl}UI_Buff_Element_${element}.png`;
+    img.alt = element;
+    img.width = 36;
+    img.height = 36;
+    btn.appendChild(img);
+  });
+});
+
+

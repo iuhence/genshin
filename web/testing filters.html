@@ -1,0 +1,232 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Character Showcase</title>
+    <style>
+        body {
+            margin: 20px;
+            font-family: 'Roboto', sans-serif;
+            background-color: #2b2340;
+            }
+
+        #character-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px; /* Smaller horizontal & vertical gap */
+            justify-content: center;
+            padding: 0;
+            margin: 0;
+            }
+
+        .character-container {
+            max-width: 120px;
+            border-radius: 10px;
+            display: inline-block;
+            text-align: center;
+            margin: 0.5px; /* Remove extra margin */
+            position: relative;
+            }
+
+        .character-container:hover {
+            box-shadow: 0 0 6px 4px rgba(255, 255, 255, 0.5);
+            transform: scale(1.05);
+            z-index: 2;
+            }
+
+        /* Background with triquetra PNG */
+        .character-triquetra {
+            background-image: url('https://raw.githubusercontent.com/iuhence/genshin/2c9d32a6cfd62bdd20e5d83076dd6ef255370bf9/trquetra.png');
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            background-position: center;
+            padding: 12px;
+            border-radius: 10px;
+        }
+
+        /* Rarity backgrounds */
+        .character-ssr {
+            background-color: #be721f;
+        }
+
+        .character-sr {
+        background-color: #8c6bb2;
+        }   
+
+        .character-r {
+        background-color: skyblue;
+        }
+
+        /* Character image button */
+        .character-button {
+        border: none;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+        overflow: hidden;
+        padding: 0;
+        cursor: pointer;
+        position: relative;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        display: block;
+        }
+
+        .character {
+        width: 100%;
+        height: auto;
+        display: block;
+        }
+
+        .character-element {
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        width: 20px;
+        height: 20px;
+        }
+
+        .character-weapon {
+        position: absolute;
+        top: 30px;
+        right: 5px;
+        width: 20px;
+        height: 20px;
+        filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5));
+        }
+
+        /* Character name text box below button */
+        .character-name {
+        background-color: black;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        padding: 6px 0;
+        
+        
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        }
+
+        /* Sticky header styling */
+        header {
+        position: sticky;
+        top: 0;
+        width: 100%;
+        background-color: #1f1a30;
+        padding: 15px 30px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-bottom: 10px;
+        color: white;
+        font-size: 18px;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+        z-index: 999;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+        border-bottom: 1px solid #3a2f50;
+        }
+
+        body {
+        font-family: 'Roboto', sans-serif;
+        background-color: #2b2340;
+        margin: 10px;
+        padding: 0;
+        }
+
+        /* Sidebar styling */
+
+        .sidebar {
+            position: fixed;
+            z-index: 4;
+            top: 50px;
+            left: 0;
+            height: 100vh;
+            width: 75px;
+            background-color: #1f1a30;
+            border-right: 1px solid #3a2f50;
+            transition: width 0.3s ease;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            padding-top: 20px;
+         }
+
+        .sidebar:hover {
+            width: 175px;
+            border: 10px;
+            border-bottom: 1px solid #3a2f50;
+        }
+
+        .sidebar-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 20px;
+            color: #ccc;
+            text-decoration: none;
+            transition: background-color 0.2s, color 0.2s;
+        }
+
+        .sidebar-item:hover {
+            background-color: #584878;
+            color: #fff;
+        }
+
+        .icon {
+            font-size: 1.5rem;
+            margin-right: 12px;
+            height: 40px;
+            width: auto
+        }
+
+        .label {
+            opacity: 0;
+            transition: opacity 0.2s ease;
+            white-space: nowrap;
+            font-family: "Roboto", sans-serif;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .sidebar:hover .label {
+            opacity: 1;
+        }
+
+    </style>
+
+    </head>
+
+    <!-- Sticky Header -->
+    <header>
+        iuhence
+    </header>
+
+    <body>
+
+        <div class="sidebar">
+            <a href="#" class="sidebar-item">
+                <img src="https://raw.githubusercontent.com/iuhence/genshin/41a3d49095df9fac80fc77ce4f08013ac4fedd2f/web/Icon-Guild.png" alt="Guild Icon" class="icon"/>
+
+                <span class="label">Home</span>
+            </a>
+
+             <a href="#" class="sidebar-item">
+                <img src="https://raw.githubusercontent.com/iuhence/genshin/main/web/Icon-Male.png" alt="Male Icon" class="icon"/>
+
+                <span class="label">Character</span>
+            </a>
+
+            <a href="#" class="sidebar-item">
+                <img src="https://raw.githubusercontent.com/iuhence/genshin/main/web/Icon_Archive_Equipment.png" alt="Male Icon" class="icon"/>
+
+                <span class="label">Weapons</span>
+            </a>
+        </div>
+
+
+        <div id="character-grid"></div>
+        <script src="https://iuhence.github.io/genshin/character-dynamic.js"></script>
+
+    </body>
+    </html>
