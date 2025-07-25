@@ -96,6 +96,14 @@
     "image": "Furina"
   },
   {
+    "id": "105",
+    "name": "Ororon",
+    "element": "electro",
+    "weapon": "bow",
+    "rarity": "sr",
+    "image": "Ororon"
+  },
+  {
     "id": "106",
     "name": "Mavuika",
     "element": "pyro",
@@ -104,11 +112,43 @@
     "image": "Mavuika"
   },
   {
-    "id": "999",
-    "name": "Tsaritsa",
-    "element": "cryo",
+    "id": "111",
+    "name": "Varesa",
+    "element": "electro",
     "weapon": "catalyst",
     "rarity": "ssr",
-    "image": "Bronya"
+    "image": "Varesa"
+  },
+  {
+    "id": "112",
+    "name": "Escoffier",
+    "element": "cryo",
+    "weapon": "polearm",
+    "rarity": "ssr",
+    "image": "Escoffier"
+  },
+  {
+    "id": "113",
+    "name": "Dahlia",
+    "element": "hydro",
+    "weapon": "sword",
+    "rarity": "sr",
+    "image": "Dahlia"
+  },
+  {
+    "id": "114",
+    "name": "Skirk",
+    "element": "cryo",
+    "weapon": "sword",
+    "rarity": "ssr",
+    "image": "Skirk"
+  },
+  {
+    "id": "115",
+    "name": "Ineffra",
+    "element": "electro",
+    "weapon": "polearm",
+    "rarity": "ssr",
+    "image": "Ineffa"
   }
  ]
