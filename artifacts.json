@@ -68,5 +68,45 @@
     "id": "15027",
     "name": "Desert Pavilion Chronicle",
     "image": "UI_RelicIcon_15027_4"
+  },
+  {
+    "id": "15026",
+    "name": "Gilded Dreams",
+    "image": "UI_RelicIcon_15026_4"
+  },
+  {
+    "id": "15025",
+    "name": "Deepwood Memories",
+    "image": "UI_RelicIcon_15025_4"
+  },
+  {
+    "id": "15024",
+    "name": "Echoes of an Offering",
+    "image": "UI_RelicIcon_15024_4"
+  },
+  {
+    "id": "15023",
+    "name": "Vermillion Hereafter",
+    "image": "UI_RelicIcon_15023_4"
+  },
+  {
+    "id": "15022",
+    "name": "Ocean-Hued Clam",
+    "image": "UI_RelicIcon_15022_4"
+  },
+  {
+    "id": "15021",
+    "name": "Husk of Opulent Dreams",
+    "image": "UI_RelicIcon_15021_4"
+  },
+  {
+    "id": "15020",
+    "name": "Emblem of Severed Fate",
+    "image": "UI_RelicIcon_15020_4"
+  },
+  {
+    "id": "15019",
+    "name": "Shimenawa's Reminiscence",
+    "image": "UI_RelicIcon_15019_4"
   }
 ]
