@@ -108,5 +108,90 @@
     "id": "15019",
     "name": "Shimenawa's Reminiscence",
     "image": "UI_RelicIcon_15019_4"
+  },
+  {
+    "id": "15018",
+    "name": "Pale Flame",
+    "image": "UI_RelicIcon_15018_4"
+  },
+  {
+    "id": "15017",
+    "name": "Tenacity of the Millelith",
+    "image": "UI_RelicIcon_15017_4"
+  },
+  {
+    "id": "15016",
+    "name": "Heart of Depth",
+    "image": "UI_RelicIcon_15016_4"
+  },
+  {
+    "id": "15015",
+    "name": "Retracing Bolide",
+    "image": "UI_RelicIcon_15015_4"
+  },
+  {
+    "id": "15014",
+    "name": "Archaic Petra",
+    "image": "UI_RelicIcon_15014_4"
+  },
+  {
+    "id": "15013",
+    "name": "Bloodstained Chivalry",
+    "image": "UI_RelicIcon_15013_4"
+  },
+  {
+    "id": "15008",
+    "name": "Bloodstained Chivalry",
+    "image": "UI_RelicIcon_15008_4"
+  },
+  {
+    "id": "15007",
+    "name": "Noblesse Oblige",
+    "image": "UI_RelicIcon_15007_4"
+  },
+  {
+    "id": "15006",
+    "name": "Crimson Witch of Flames",
+    "image": "UI_RelicIcon_15006_4"
+  },
+  {
+    "id": "15005",
+    "name": "Thundering Fury",
+    "image": "UI_RelicIcon_15005_4"
+  },
+  {
+    "id": "15003",
+    "name": "Wanderer's Troupe",
+    "image": "UI_RelicIcon_15003_4"
+  },
+  {
+    "id": "15002",
+    "name": "Viridescent Venerer",
+    "image": "UI_RelicIcon_15002_4"
+  },
+  {
+    "id": "15001",
+    "name": "Gladiator's Finale",
+    "image": "UI_RelicIcon_15001_4"
+  },
+  {
+    "id": "14004",
+    "name": "Maiden Beloved",
+    "image": "UI_RelicIcon_14004_4"
+  },
+  {
+    "id": "14003",
+    "name": "Lavawalker",
+    "image": "UI_RelicIcon_14003_4"
+  },
+  {
+    "id": "14002",
+    "name": "Thundersoother",
+    "image": "UI_RelicIcon_14002_4"
+  },
+  {
+    "id": "14001",
+    "name": "Blizzard Strayer",
+    "image": "UI_RelicIcon_14001_4"
   }
 ]
