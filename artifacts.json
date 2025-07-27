@@ -25,8 +25,48 @@
     "image": "UI_RelicIcon_15036_4"
   },
   {
-    "id": "15036",
+    "id": "15035",
     "name": "Fragment of Harmonic Whimsy",
     "image": "UI_RelicIcon_15035_4"
+  },
+  {
+    "id": "15034",
+    "name": "Nighttime Whispers in the Echoing Woods",
+    "image": "UI_RelicIcon_15034#_4"
+  },
+  {
+    "id": "15033",
+    "name": "Song of Days Past",
+    "image": "UI_RelicIcon_15033_4"
+  },
+  {
+    "id": "15032",
+    "name": "Golden Troupe",
+    "image": "UI_RelicIcon_15032_4"
+  },
+  {
+    "id": "15031",
+    "name": "Marechaussee Hunter",
+    "image": "UI_RelicIcon_15031_4"
+  }
+  {
+    "id": "15030",
+    "name": "Vourukasha's Glow",
+    "image": "UI_RelicIcon_15030_4"
+  },
+  {
+    "id": "15029",
+    "name": "Nymph's Dream",
+    "image": "UI_RelicIcon_15029_4"
+  },
+  {
+    "id": "15028",
+    "name": "Flower of Paradise Lost",
+    "image": "UI_RelicIcon_15028_4"
+  },
+  {
+    "id": "15027",
+    "name": "Desert Pavilion Chronicle",
+    "image": "UI_RelicIcon_15027_4"
   }
 ]
