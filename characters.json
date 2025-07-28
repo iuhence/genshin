@@ -1,4 +1,5 @@
-{
+[
+    {
     "props": {
         "FIGHT_PROP_CRITICAL_HURT": "CRIT DMG",
         "FIGHT_PROP_HEAL_ADD": "Healing Bonus",
@@ -17,7 +18,6 @@
         "FIGHT_PROP_WIND_ADD_HURT": "Anemo DMG Bonus",
         "FIGHT_PROP_GRASS_ADD_HURT": "Dendro DMG Bonus"
     },
-    "items": {
         "10000002": {
             "id": 10000002,
             "rarity": "ssr",
@@ -1923,4 +1923,4 @@
             "release": 1657659600
         }
     }
-}
+]
