@@ -25,24 +25,39 @@
     try {
       const response = await fetch("https://iuhence.github.io/genshin/characters.json");
       const characters = await response.json();
-  
+      const rawData = await response.json();
+      const characters = Object.values(rawData).map(c => ({
+        id: c.id,
+        name: c.name,
+        element: c.element,
+        weapon: c.weaponType.replace('WEAPON_', '').split('_')[0],
+        rarity: c.rank === 5 ? 'SSR' : 'SR',
+        image: c.icon?.replace('UI_AvatarIcon_', '') || 'Unknown'
+      }));
+      
       const grid = document.getElementById("character-grid");
   
-      characters.forEach(character => {
-        const container = document.createElement("div");
-        container.className = "character-container";
-  
-        container.innerHTML = `
-          <button class="character-button character-${character.rarity.toLowerCase()} character-triquetra">
-            <img class="character-element" src="${baseUrls.element}UI_Buff_Element_${elementMap[character.element]}.png" alt="${character.element}" />
-            <img class="character-weapon" src="${baseUrls.weapon}Skill_Normal_${weaponMap[character.weapon]}.png" alt="${character.weapon}" />
-            <img class="character" src="https://gi.yatta.moe/assets/UI/UI_AvatarIcon_${character.image}.png" alt="${character.name}" />
-          </button>
-          <div class="character-name">${character.name}</div>
-        `;
-  
-        grid.appendChild(container);
-      });
+      Object.values(characters).forEach(c => {
+  const rarity = c.rank === 5 ? 'SSR' : 'SR';
+  const weaponRaw = c.weaponType.replace('WEAPON_', '').split('_')[0].toLowerCase(); // e.g., "sword"
+  const weaponName = weaponRaw.charAt(0).toUpperCase() + weaponRaw.slice(1); // "Sword"
+  const imageName = c.icon.replace('UI_AvatarIcon_', '');
+
+  const container = document.createElement("div");
+  container.className = "character-container";
+
+  container.innerHTML = `
+    <button class="character-button character-${rarity.toLowerCase()} character-triquetra">
+      <img class="character-element" src="${baseUrls.element}UI_Buff_Element_${c.element}.png" alt="${c.element}" />
+      <img class="character-weapon" src="${baseUrls.weapon}Skill_Normal_${weaponName}.png" alt="${weaponName}" />
+      <img class="character" src="https://gi.yatta.moe/assets/UI/UI_AvatarIcon_${imageName}.png" alt="${c.name}" />
+    </button>
+    <div class="character-name">${c.name}</div>
+  `;
+
+  grid.appendChild(container);
+});
+      
     } catch (err) {
       console.error("❌ Failed to load characters.json:", err);
     }
