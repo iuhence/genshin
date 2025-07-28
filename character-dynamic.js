@@ -23,14 +23,15 @@ document.addEventListener("DOMContentLoaded", async () => {
     };
   
     try {
-      const response = await fetch("https://iuhence.github.io/genshin/characters.json");
-      const data = await response.json();
-      const characters = Object.values(data.items);
-
-  
-      const grid = document.getElementById("character-grid");
-  
-      characters.forEach(character => {
+        const response = await fetch("https://iuhence.github.io/genshin/characters.json");
+        const raw = await response.json();
+        
+        const dataObject = raw[0]; // It's an array with a single object
+        delete dataObject.props;   // Remove non-character part
+        
+        const characters = Object.values(dataObject);
+   
+        characters.forEach(character => {
         const container = document.createElement("div");
         container.className = "character-container";
   
