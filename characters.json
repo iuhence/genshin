@@ -1,234 +1,1929 @@
 [
+  200,
   {
-    "id": "01",
-    "name": "Traveler",
-    "element": "anemo",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "PlayerBoy"
-  },
-  {
-    "id": "02",
-    "name": "Traveler",
-    "element": "geo",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "PlayerGirl"
-  },
-  {
-    "id": "03",
-    "name": "Traveler",
-    "element": "electro",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "PlayerBoy"
-  },
-  {
-    "id": "04",
-    "name": "Traveler",
-    "element": "dendro",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "PlayerGirl"
-  },
-  {
-    "id": "05",
-    "name": "Traveler",
-    "element": "hydro",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "PlayerBoy"
-  },
-  {
-    "id": "06",
-    "name": "Traveler",
-    "element": "pyro",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "PlayerGirl"
-  },
-  {
-    "id": "07",
-    "name": "Traveler",
-    "element": "cryo",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "PlayerBoy"
-  },
-  {
-    "id": "22",
-    "name": "Venti",
-    "element": "anemo",
-    "weapon": "bow",
-    "rarity": "ssr",
-    "image": "Venti"
-  },
-  {
-    "id": "30",
-    "name": "Zhongli",
-    "element": "geo",
-    "weapon": "polearm",
-    "rarity": "ssr",
-    "image": "Zhongli"
-  },
-  {
-    "id": "52",
-    "name": "Raiden Shogun",
-    "element": "electro",
-    "weapon": "polearm",
-    "rarity": "ssr",
-    "image": "Shogun"
-  },
-  {
-    "id": "73",
-    "name": "Nahida",
-    "element": "dendro",
-    "weapon": "catalyst",
-    "rarity": "ssr",
-    "image": "Nahida"
-  },
-  {
-    "id": "89",
-    "name": "Furina",
-    "element": "hydro",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "Furina"
-  },
-  {
-    "id": "100",
-    "name": "Kachina",
-    "element": "geo",
-    "weapon": "polearm",
-    "rarity": "sr",
-    "image": "Kachina"
-  },
-  {
-    "id": "101",
-    "name": "Kinich",
-    "element": "dendro",
-    "weapon": "claymore",
-    "rarity": "ssr",
-    "image": "Kinich"
-  },
-  {
-    "id": "102",
-    "name": "Mualani",
-    "element": "hydro",
-    "weapon": "catalyst",
-    "rarity": "ssr",
-    "image": "Mualani"
-  },
-  {
-    "id": "103",
-    "name": "Xilonen",
-    "element": "geo",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "Xilonen"
-  },
-  {
-    "id": "104",
-    "name": "Chasca",
-    "element": "anemo",
-    "weapon": "bow",
-    "rarity": "ssr",
-    "image": "Chasca"
-  },
-  {
-    "id": "105",
-    "name": "Ororon",
-    "element": "electro",
-    "weapon": "bow",
-    "rarity": "sr",
-    "image": "Olorun"
-  },
-  {
-    "id": "106",
-    "name": "Mavuika",
-    "element": "pyro",
-    "weapon": "claymore",
-    "rarity": "ssr",
-    "image": "Mavuika"
-  },
-  {
-    "id": "107",
-    "name": "Citlali",
-    "element": "cryo",
-    "weapon": "catalyst",
-    "rarity": "ssr",
-    "image": "Citlali"
-  },
-  {
-    "id": "108",
-    "name": "Lanyan",
-    "element": "anemo",
-    "weapon": "catalyst",
-    "rarity": "sr",
-    "image": "Lanyan"
-  },
-  {
-    "id": "109",
-    "name": "Yumemizuki Mizuki",
-    "element": "anemo",
-    "weapon": "catalyst",
-    "rarity": "ssr",
-    "image": "Mizuki"
-  },
-  {
-    "id": "110",
-    "name": "Iansan",
-    "element": "electro",
-    "weapon": "polearm",
-    "rarity": "sr",
-    "image": "Iansan"
-  },
-  {
-    "id": "111",
-    "name": "Varesa",
-    "element": "electro",
-    "weapon": "catalyst",
-    "rarity": "ssr",
-    "image": "Varesa"
-  },
-  {
-    "id": "112",
-    "name": "Escoffier",
-    "element": "cryo",
-    "weapon": "polearm",
-    "rarity": "ssr",
-    "image": "Escoffier"
-  },
-  {
-    "id": "113",
-    "name": "Ifa",
-    "element": "anemo",
-    "weapon": "catalyst",
-    "rarity": "sr",
-    "image": "Ifa"
-  },
-  {
-    "id": "114",
-    "name": "Skirk",
-    "element": "cryo",
-    "weapon": "sword",
-    "rarity": "ssr",
-    "image": "Skirk"
-  }, 
-  {
-    "id": "115",
-    "name": "Dahlia",
-    "element": "hydro",
-    "weapon": "sword",
-    "rarity": "sr",
-    "image": "Dahlia"
-  },
-  {
-    "id": "116",
-    "name": "Ineffra",
-    "element": "electro",
-    "weapon": "polearm",
-    "rarity": "ssr",
-    "image": "Ineffa"
+    "props": {
+      "FIGHT_PROP_CRITICAL_HURT": "CRIT DMG",
+      "FIGHT_PROP_HEAL_ADD": "Healing Bonus",
+      "FIGHT_PROP_ATTACK_PERCENT": "ATK",
+      "FIGHT_PROP_ELEMENT_MASTERY": "Elemental Mastery",
+      "FIGHT_PROP_HP_PERCENT": "HP",
+      "FIGHT_PROP_CHARGE_EFFICIENCY": "Energy Recharge",
+      "FIGHT_PROP_CRITICAL": "CRIT Rate",
+      "FIGHT_PROP_PHYSICAL_ADD_HURT": "Physical DMG Bonus",
+      "FIGHT_PROP_ELEC_ADD_HURT": "Electro DMG Bonus",
+      "FIGHT_PROP_ROCK_ADD_HURT": "Geo DMG Bonus",
+      "FIGHT_PROP_FIRE_ADD_HURT": "Pyro DMG Bonus",
+      "FIGHT_PROP_WATER_ADD_HURT": "Hydro DMG Bonus",
+      "FIGHT_PROP_DEFENSE_PERCENT": "DEF",
+      "FIGHT_PROP_ICE_ADD_HURT": "Cryo DMG Bonus",
+      "FIGHT_PROP_WIND_ADD_HURT": "Anemo DMG Bonus",
+      "FIGHT_PROP_GRASS_ADD_HURT": "Dendro DMG Bonus"
+    },
+"items": {
+        "10000002": {
+        "id": 10000002,
+        "rarity": 5,
+        "name": "Kamisato Ayaka",
+        "element": "cryo",
+        "weapon": "sword",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "GIRL",
+        "image": "Ayaka",
+        "birthday": [
+          9,
+          28
+        ],
+        "release": 1626814800,
+        "route": "Kamisato Ayaka"
+      },
+      "10000003": {
+        "id": 10000003,
+        "rarity": 5,
+        "name": "Jean",
+        "element": "anemo",
+        "weapon": "sword",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_HEAL_ADD",
+        "bodyType": "LADY",
+        "image": "Qin",
+        "birthday": [
+          3,
+          14
+        ],
+        "release": 1601244000,
+        "route": "Jean"
+      },
+      "10000006": {
+        "id": 10000006,
+        "rarity": "sr",
+        "name": "Lisa",
+        "element": "electro",
+        "weapon": "catalyst",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "LADY",
+        "image": "Lisa",
+        "birthday": [
+          6,
+          9
+        ],
+        "release": 1601244000,
+        "route": "Lisa"
+      },
+      "10000014": {
+        "id": 10000014,
+        "rarity": "sr",
+        "name": "Barbara",
+        "element": "hydro",
+        "weapon": "catalyst",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Barbara",
+        "birthday": [
+          7,
+          5
+        ],
+        "release": 1601244000,
+        "route": "Barbara"
+      },
+      "10000015": {
+        "id": 10000015,
+        "rarity": "sr",
+        "name": "Kaeya",
+        "element": "cryo",
+        "weapon": "sword",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "bodyType": "MALE",
+        "image": "Kaeya",
+        "birthday": [
+          11,
+          30
+        ],
+        "release": 1601244000,
+        "route": "Kaeya"
+      },
+      "10000016": {
+        "id": 10000016,
+        "rarity": 5,
+        "name": "Diluc",
+        "element": "pyro",
+        "weapon": "claymore",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "MALE",
+        "image": "Diluc",
+        "birthday": [
+          "sr",
+          30
+        ],
+        "release": 1601244000,
+        "route": "Diluc"
+      },
+      "10000020": {
+        "id": 10000020,
+        "rarity": "sr",
+        "name": "Razor",
+        "element": "electro",
+        "weapon": "claymore",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+        "bodyType": "BOY",
+        "image": "Razor",
+        "birthday": [
+          9,
+          9
+        ],
+        "release": 1601244000,
+        "route": "Razor"
+      },
+      "10000021": {
+        "id": 10000021,
+        "rarity": "sr",
+        "name": "Amber",
+        "element": "pyro",
+        "weapon": "bow",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Ambor",
+        "birthday": [
+          8,
+          10
+        ],
+        "release": 1601244000,
+        "route": "Amber"
+      },
+      "10000022": {
+        "id": 10000022,
+        "rarity": 5,
+        "name": "Venti",
+        "element": "anemo",
+        "weapon": "bow",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "bodyType": "BOY",
+        "image": "Venti",
+        "birthday": [
+          6,
+          16
+        ],
+        "release": 1601244000,
+        "route": "Venti"
+      },
+      "10000023": {
+        "id": 10000023,
+        "rarity": "sr",
+        "name": "Xiangling",
+        "element": "pyro",
+        "weapon": "polearm",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "GIRL",
+        "image": "Xiangling",
+        "birthday": [
+          11,
+          2
+        ],
+        "release": 1601244000,
+        "route": "Xiangling"
+      },
+      "10000024": {
+        "id": 10000024,
+        "rarity": "sr",
+        "name": "Beidou",
+        "element": "electro",
+        "weapon": "claymore",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ELEC_ADD_HURT",
+        "bodyType": "LADY",
+        "image": "Beidou",
+        "birthday": [
+          2,
+          14
+        ],
+        "release": 1601244000,
+        "route": "Beidou"
+      },
+      "10000025": {
+        "id": 10000025,
+        "rarity": "sr",
+        "name": "Xingqiu",
+        "element": "hydro",
+        "weapon": "sword",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "Xingqiu",
+        "birthday": [
+          10,
+          9
+        ],
+        "release": 1601244000,
+        "route": "Xingqiu"
+      },
+      "10000026": {
+        "id": 10000026,
+        "rarity": 5,
+        "name": "Xiao",
+        "element": "anemo",
+        "weapon": "polearm",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "BOY",
+        "image": "Xiao",
+        "birthday": [
+          "sr",
+          17
+        ],
+        "release": 1612216800,
+        "route": "Xiao"
+      },
+      "10000027": {
+        "id": 10000027,
+        "rarity": "sr",
+        "name": "Ningguang",
+        "element": "geo",
+        "weapon": "catalyst",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ROCK_ADD_HURT",
+        "bodyType": "LADY",
+        "image": "Ningguang",
+        "birthday": [
+          8,
+          26
+        ],
+        "release": 1601244000,
+        "route": "Ningguang"
+      },
+      "10000029": {
+        "id": 10000029,
+        "rarity": 5,
+        "name": "Klee",
+        "element": "pyro",
+        "weapon": "catalyst",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_FIRE_ADD_HURT",
+        "bodyType": "LOLI",
+        "image": "Klee",
+        "birthday": [
+          7,
+          27
+        ],
+        "release": 1601244000,
+        "route": "Klee"
+      },
+      "10000030": {
+        "id": 10000030,
+        "rarity": 5,
+        "name": "Zhongli",
+        "element": "geo",
+        "weapon": "polearm",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ROCK_ADD_HURT",
+        "bodyType": "MALE",
+        "image": "Zhongli",
+        "birthday": [
+          12,
+          31
+        ],
+        "release": 1606874400,
+        "route": "Zhongli"
+      },
+      "10000031": {
+        "id": 10000031,
+        "rarity": "sr",
+        "name": "Fischl",
+        "element": "electro",
+        "weapon": "bow",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Fischl",
+        "birthday": [
+          5,
+          27
+        ],
+        "release": 1601244000,
+        "route": "Fischl"
+      },
+      "10000032": {
+        "id": 10000032,
+        "rarity": "sr",
+        "name": "Bennett",
+        "element": "pyro",
+        "weapon": "sword",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "bodyType": "BOY",
+        "image": "Bennett",
+        "birthday": [
+          2,
+          29
+        ],
+        "release": 1601244000,
+        "route": "Bennett"
+      },
+      "10000033": {
+        "id": 10000033,
+        "rarity": 5,
+        "name": "Tartaglia",
+        "element": "hydro",
+        "weapon": "bow",
+        "region": "FATUI",
+        "specialProp": "FIGHT_PROP_WATER_ADD_HURT",
+        "bodyType": "MALE",
+        "image": "Tartaglia",
+        "birthday": [
+          7,
+          20
+        ],
+        "release": 1605060000,
+        "route": "Tartaglia"
+      },
+      "10000034": {
+        "id": 10000034,
+        "rarity": "sr",
+        "name": "Noelle",
+        "element": "geo",
+        "weapon": "claymore",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_DEFENSE_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Noel",
+        "birthday": [
+          3,
+          21
+        ],
+        "release": 1601244000,
+        "route": "Noelle"
+      },
+      "10000035": {
+        "id": 10000035,
+        "rarity": 5,
+        "name": "Qiqi",
+        "element": "cryo",
+        "weapon": "sword",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_HEAL_ADD",
+        "bodyType": "LOLI",
+        "image": "Qiqi",
+        "birthday": [
+          3,
+          3
+        ],
+        "release": 1601244000,
+        "route": "Qiqi"
+      },
+      "10000036": {
+        "id": 10000036,
+        "rarity": "sr",
+        "name": "Chongyun",
+        "element": "cryo",
+        "weapon": "claymore",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "Chongyun",
+        "birthday": [
+          9,
+          7
+        ],
+        "release": 1601244000,
+        "route": "Chongyun"
+      },
+      "10000037": {
+        "id": 10000037,
+        "rarity": 5,
+        "name": "Ganyu",
+        "element": "cryo",
+        "weapon": "bow",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "GIRL",
+        "image": "Ganyu",
+        "birthday": [
+          12,
+          2
+        ],
+        "release": 1610467200,
+        "route": "Ganyu"
+      },
+      "10000038": {
+        "id": 10000038,
+        "rarity": 5,
+        "name": "Albedo",
+        "element": "geo",
+        "weapon": "sword",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_ROCK_ADD_HURT",
+        "bodyType": "BOY",
+        "image": "Albedo",
+        "birthday": [
+          9,
+          13
+        ],
+        "release": 1608588000,
+        "route": "Albedo"
+      },
+      "10000039": {
+        "id": 10000039,
+        "rarity": "sr",
+        "name": "Diona",
+        "element": "cryo",
+        "weapon": "bow",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_ICE_ADD_HURT",
+        "bodyType": "LOLI",
+        "image": "Diona",
+        "birthday": [
+          1,
+          18
+        ],
+        "release": 1605060000,
+        "route": "Diona"
+      },
+      "10000041": {
+        "id": 10000041,
+        "rarity": 5,
+        "name": "Mona",
+        "element": "hydro",
+        "weapon": "catalyst",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "bodyType": "GIRL",
+        "image": "Mona",
+        "birthday": [
+          8,
+          31
+        ],
+        "release": 1601244000,
+        "route": "Mona"
+      },
+      "10000042": {
+        "id": 10000042,
+        "rarity": 5,
+        "name": "Keqing",
+        "element": "electro",
+        "weapon": "sword",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "GIRL",
+        "image": "Keqing",
+        "birthday": [
+          11,
+          20
+        ],
+        "release": 1601244000,
+        "route": "Keqing"
+      },
+      "10000043": {
+        "id": 10000043,
+        "rarity": "sr",
+        "name": "Sucrose",
+        "element": "anemo",
+        "weapon": "catalyst",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_WIND_ADD_HURT",
+        "bodyType": "GIRL",
+        "image": "Sucrose",
+        "birthday": [
+          11,
+          26
+        ],
+        "release": 1601244000,
+        "route": "Sucrose"
+      },
+      "10000044": {
+        "id": 10000044,
+        "rarity": "sr",
+        "name": "Xinyan",
+        "element": "pyro",
+        "weapon": "claymore",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Xinyan",
+        "birthday": [
+          10,
+          16
+        ],
+        "release": 1606874400,
+        "route": "Xinyan"
+      },
+      "10000045": {
+        "id": 10000045,
+        "rarity": "sr",
+        "name": "Rosaria",
+        "element": "cryo",
+        "weapon": "polearm",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "LADY",
+        "image": "Rosaria",
+        "birthday": [
+          1,
+          24
+        ],
+        "release": 1617721200,
+        "route": "Rosaria"
+      },
+      "10000046": {
+        "id": 10000046,
+        "rarity": 5,
+        "name": "Hu Tao",
+        "element": "pyro",
+        "weapon": "polearm",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "GIRL",
+        "image": "Hutao",
+        "birthday": [
+          7,
+          15
+        ],
+        "release": 1614700800,
+        "route": "Hu Tao"
+      },
+      "10000047": {
+        "id": 10000047,
+        "rarity": 5,
+        "name": "Kaedehara Kazuha",
+        "element": "anemo",
+        "weapon": "sword",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "BOY",
+        "image": "Kazuha",
+        "birthday": [
+          10,
+          29
+        ],
+        "release": 1624978800,
+        "route": "Kaedehara Kazuha"
+      },
+      "10000048": {
+        "id": 10000048,
+        "rarity": "sr",
+        "name": "Yanfei",
+        "element": "pyro",
+        "weapon": "catalyst",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_FIRE_ADD_HURT",
+        "bodyType": "GIRL",
+        "image": "Feiyan",
+        "birthday": [
+          7,
+          28
+        ],
+        "release": 1619470800,
+        "route": "Yanfei"
+      },
+      "10000049": {
+        "id": 10000049,
+        "rarity": 5,
+        "name": "Yoimiya",
+        "element": "pyro",
+        "weapon": "bow",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "GIRL",
+        "image": "Yoimiya",
+        "birthday": [
+          6,
+          21
+        ],
+        "release": 1628607600,
+        "route": "Yoimiya"
+      },
+      "10000050": {
+        "id": 10000050,
+        "rarity": "sr",
+        "name": "Thoma",
+        "element": "pyro",
+        "weapon": "polearm",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "MALE",
+        "image": "Tohma",
+        "birthday": [
+          1,
+          9
+        ],
+        "release": 1635868800,
+        "route": "Thoma"
+      },
+      "10000051": {
+        "id": 10000051,
+        "rarity": 5,
+        "name": "Eula",
+        "element": "cryo",
+        "weapon": "claymore",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "LADY",
+        "image": "Eula",
+        "birthday": [
+          10,
+          25
+        ],
+        "release": 1621350000,
+        "route": "Eula"
+      },
+      "10000052": {
+        "id": 10000052,
+        "rarity": 5,
+        "name": "Raiden Shogun",
+        "element": "electro",
+        "weapon": "polearm",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "bodyType": "LADY",
+        "image": "Shougun",
+        "birthday": [
+          6,
+          26
+        ],
+        "release": 1630443600,
+        "route": "Raiden Shogun"
+      },
+      "10000053": {
+        "id": 10000053,
+        "rarity": "sr",
+        "name": "Sayu",
+        "element": "anemo",
+        "weapon": "claymore",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "LOLI",
+        "image": "Sayu",
+        "birthday": [
+          10,
+          19
+        ],
+        "release": 1628607600,
+        "route": "Sayu"
+      },
+      "10000054": {
+        "id": 10000054,
+        "rarity": 5,
+        "name": "Sangonomiya Kokomi",
+        "element": "hydro",
+        "weapon": "catalyst",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_WATER_ADD_HURT",
+        "bodyType": "GIRL",
+        "image": "Kokomi",
+        "birthday": [
+          2,
+          22
+        ],
+        "release": 1632236400,
+        "route": "Sangonomiya Kokomi"
+      },
+      "10000055": {
+        "id": 10000055,
+        "rarity": "sr",
+        "name": "Gorou",
+        "element": "geo",
+        "weapon": "bow",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_ROCK_ADD_HURT",
+        "bodyType": "BOY",
+        "image": "Gorou",
+        "birthday": [
+          5,
+          18
+        ],
+        "release": 1639497600,
+        "route": "Gorou"
+      },
+      "10000056": {
+        "id": 10000056,
+        "rarity": "sr",
+        "name": "Kujou Sara",
+        "element": "electro",
+        "weapon": "bow",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "LADY",
+        "image": "Sara",
+        "birthday": [
+          7,
+          14
+        ],
+        "release": 1630443600,
+        "route": "Kujou Sara"
+      },
+      "10000057": {
+        "id": 10000057,
+        "rarity": 5,
+        "name": "Arataki Itto",
+        "element": "geo",
+        "weapon": "claymore",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "MALE",
+        "image": "Itto",
+        "birthday": [
+          6,
+          1
+        ],
+        "release": 1639497600,
+        "route": "Arataki Itto"
+      },
+      "10000058": {
+        "id": 10000058,
+        "rarity": 5,
+        "name": "Yae Miko",
+        "element": "electro",
+        "weapon": "catalyst",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "LADY",
+        "image": "Yae",
+        "birthday": [
+          6,
+          27
+        ],
+        "release": 1644962400,
+        "route": "Yae Miko"
+      },
+      "10000059": {
+        "id": 10000059,
+        "rarity": "sr",
+        "name": "Shikanoin Heizou",
+        "element": "anemo",
+        "weapon": "catalyst",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_WIND_ADD_HURT",
+        "bodyType": "BOY",
+        "image": "Heizo",
+        "birthday": [
+          7,
+          24
+        ],
+        "release": 1657659600,
+        "route": "Shikanoin Heizou"
+      },
+      "10000060": {
+        "id": 10000060,
+        "rarity": 5,
+        "name": "Yelan",
+        "element": "hydro",
+        "weapon": "bow",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "LADY",
+        "image": "Yelan",
+        "birthday": [
+          "sr",
+          20
+        ],
+        "release": 1653944400,
+        "route": "Yelan"
+      },
+      "10000061": {
+        "id": 10000061,
+        "rarity": "sr",
+        "name": "Kirara",
+        "element": "dendro",
+        "weapon": "sword",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Momoka",
+        "birthday": [
+          1,
+          22
+        ],
+        "release": 1684789200,
+        "route": "Kirara"
+      },
+      "10000062": {
+        "id": 10000062,
+        "rarity": 5,
+        "name": "Aloy",
+        "element": "cryo",
+        "weapon": "bow",
+        "region": "RANGER",
+        "specialProp": "FIGHT_PROP_ICE_ADD_HURT",
+        "bodyType": "GIRL",
+        "image": "Aloy",
+        "birthday": [
+          "sr",
+          4
+        ],
+        "release": 1630443600,
+        "route": "Aloy"
+      },
+      "10000063": {
+        "id": 10000063,
+        "rarity": 5,
+        "name": "Shenhe",
+        "element": "cryo",
+        "weapon": "polearm",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "LADY",
+        "image": "Shenhe",
+        "birthday": [
+          3,
+          10
+        ],
+        "release": 1641333600,
+        "route": "Shenhe"
+      },
+      "10000064": {
+        "id": 10000064,
+        "rarity": "sr",
+        "name": "Yun Jin",
+        "element": "geo",
+        "weapon": "polearm",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_CHARGE_EFFICIENCY",
+        "bodyType": "GIRL",
+        "image": "Yunjin",
+        "birthday": [
+          5,
+          21
+        ],
+        "release": 1641333600,
+        "route": "Yun Jin"
+      },
+      "10000065": {
+        "id": 10000065,
+        "rarity": "sr",
+        "name": "Kuki Shinobu",
+        "element": "electro",
+        "weapon": "sword",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Shinobu",
+        "birthday": [
+          7,
+          27
+        ],
+        "release": 1655823600,
+        "route": "Kuki Shinobu"
+      },
+      "10000066": {
+        "id": 10000066,
+        "rarity": 5,
+        "name": "Kamisato Ayato",
+        "element": "hydro",
+        "weapon": "sword",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "MALE",
+        "image": "Ayato",
+        "birthday": [
+          3,
+          26
+        ],
+        "release": 1648587600,
+        "route": "Kamisato Ayato"
+      },
+      "10000067": {
+        "id": 10000067,
+        "rarity": "sr",
+        "name": "Collei",
+        "element": "dendro",
+        "weapon": "bow",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Collei",
+        "birthday": [
+          5,
+          8
+        ],
+        "release": 1661288400,
+        "route": "Collei"
+      },
+      "10000068": {
+        "id": 10000068,
+        "rarity": "sr",
+        "name": "Dori",
+        "element": "electro",
+        "weapon": "claymore",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "LOLI",
+        "image": "Dori",
+        "birthday": [
+          12,
+          21
+        ],
+        "release": 1662735600,
+        "route": "Dori"
+      },
+      "10000069": {
+        "id": 10000069,
+        "rarity": 5,
+        "name": "Tighnari",
+        "element": "dendro",
+        "weapon": "bow",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_GRASS_ADD_HURT",
+        "bodyType": "BOY",
+        "image": "Tighnari",
+        "birthday": [
+          12,
+          29
+        ],
+        "release": 1661288400,
+        "route": "Tighnari"
+      },
+      "10000070": {
+        "id": 10000070,
+        "rarity": 5,
+        "name": "Nilou",
+        "element": "hydro",
+        "weapon": "sword",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Nilou",
+        "birthday": [
+          12,
+          3
+        ],
+        "release": 1665759600,
+        "route": "Nilou"
+      },
+      "10000071": {
+        "id": 10000071,
+        "rarity": 5,
+        "name": "Cyno",
+        "element": "electro",
+        "weapon": "polearm",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "BOY",
+        "image": "Cyno",
+        "birthday": [
+          6,
+          23
+        ],
+        "release": 1664226000,
+        "route": "Cyno"
+      },
+      "10000072": {
+        "id": 10000072,
+        "rarity": "sr",
+        "name": "Candace",
+        "element": "hydro",
+        "weapon": "polearm",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "LADY",
+        "image": "Candace",
+        "birthday": [
+          5,
+          3
+        ],
+        "release": 1664226000,
+        "route": "Candace"
+      },
+      "10000073": {
+        "id": 10000073,
+        "rarity": 5,
+        "name": "Nahida",
+        "element": "dendro",
+        "weapon": "catalyst",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "LOLI",
+        "image": "Nahida",
+        "birthday": [
+          10,
+          27
+        ],
+        "release": 1667253600,
+        "route": "Nahida"
+      },
+      "10000074": {
+        "id": 10000074,
+        "rarity": "sr",
+        "name": "Layla",
+        "element": "cryo",
+        "weapon": "sword",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Layla",
+        "birthday": [
+          12,
+          19
+        ],
+        "release": 1668787200,
+        "route": "Layla"
+      },
+      "10000075": {
+        "id": 10000075,
+        "rarity": 5,
+        "name": "Wanderer",
+        "element": "anemo",
+        "weapon": "catalyst",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "BOY",
+        "image": "Wanderer",
+        "birthday": [
+          1,
+          3
+        ],
+        "release": 1670277600,
+        "route": "Wanderer"
+      },
+      "10000076": {
+        "id": 10000076,
+        "rarity": "sr",
+        "name": "Faruzan",
+        "element": "anemo",
+        "weapon": "bow",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Faruzan",
+        "birthday": [
+          8,
+          20
+        ],
+        "release": 1670277600,
+        "route": "Faruzan"
+      },
+      "10000077": {
+        "id": 10000077,
+        "rarity": "sr",
+        "name": "Yaoyao",
+        "element": "dendro",
+        "weapon": "polearm",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "LOLI",
+        "image": "Yaoyao",
+        "birthday": [
+          3,
+          6
+        ],
+        "release": 1673906400,
+        "route": "Yaoyao"
+      },
+      "10000078": {
+        "id": 10000078,
+        "rarity": 5,
+        "name": "Alhaitham",
+        "element": "dendro",
+        "weapon": "sword",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_GRASS_ADD_HURT",
+        "bodyType": "MALE",
+        "image": "Alhatham",
+        "birthday": [
+          2,
+          11
+        ],
+        "release": 1673906400,
+        "route": "Alhaitham"
+      },
+      "10000079": {
+        "id": 10000079,
+        "rarity": 5,
+        "name": "Dehya",
+        "element": "pyro",
+        "weapon": "claymore",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "LADY",
+        "image": "Dehya",
+        "birthday": [
+          "sr",
+          7
+        ],
+        "release": 1677535200,
+        "route": "Dehya"
+      },
+      "10000080": {
+        "id": 10000080,
+        "rarity": "sr",
+        "name": "Mika",
+        "element": "cryo",
+        "weapon": "polearm",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "BOY",
+        "image": "Mika",
+        "birthday": [
+          8,
+          11
+        ],
+        "release": 1679414400,
+        "route": "Mika"
+      },
+      "10000081": {
+        "id": 10000081,
+        "rarity": "sr",
+        "name": "Kaveh",
+        "element": "dendro",
+        "weapon": "claymore",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "MALE",
+        "image": "Kaveh",
+        "birthday": [
+          7,
+          9
+        ],
+        "release": 1683039600,
+        "route": "Kaveh"
+      },
+      "10000082": {
+        "id": 10000082,
+        "rarity": 5,
+        "name": "Baizhu",
+        "element": "dendro",
+        "weapon": "catalyst",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "MALE",
+        "image": "Baizhuer",
+        "birthday": [
+          "sr",
+          25
+        ],
+        "release": 1683039600,
+        "route": "Baizhu"
+      },
+      "10000083": {
+        "id": 10000083,
+        "rarity": "sr",
+        "name": "Lynette",
+        "element": "anemo",
+        "weapon": "sword",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_WIND_ADD_HURT",
+        "bodyType": "GIRL",
+        "image": "Linette",
+        "birthday": [
+          2,
+          2
+        ],
+        "release": 1692046800,
+        "route": "Lynette"
+      },
+      "10000084": {
+        "id": 10000084,
+        "rarity": 5,
+        "name": "Lyney",
+        "element": "pyro",
+        "weapon": "bow",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "BOY",
+        "image": "Liney",
+        "birthday": [
+          2,
+          2
+        ],
+        "release": 1692046800,
+        "route": "Lyney"
+      },
+      "10000085": {
+        "id": 10000085,
+        "rarity": "sr",
+        "name": "Freminet",
+        "element": "cryo",
+        "weapon": "claymore",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "Freminet",
+        "birthday": [
+          9,
+          24
+        ],
+        "release": 1693926000,
+        "route": "Freminet"
+      },
+      "10000086": {
+        "id": 10000086,
+        "rarity": 5,
+        "name": "Wriothesley",
+        "element": "cryo",
+        "weapon": "catalyst",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "MALE",
+        "image": "Wriothesley",
+        "birthday": [
+          11,
+          23
+        ],
+        "release": 1697554800,
+        "route": "Wriothesley"
+      },
+      "10000087": {
+        "id": 10000087,
+        "rarity": 5,
+        "name": "Neuvillette",
+        "element": "hydro",
+        "weapon": "catalyst",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "MALE",
+        "image": "Neuvillette",
+        "birthday": [
+          12,
+          18
+        ],
+        "release": 1695675600,
+        "route": "Neuvillette"
+      },
+      "10000088": {
+        "id": 10000088,
+        "rarity": "sr",
+        "name": "Charlotte",
+        "element": "cryo",
+        "weapon": "catalyst",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Charlotte",
+        "birthday": [
+          "sr",
+          10
+        ],
+        "release": 1699308000,
+        "route": "Charlotte"
+      },
+      "10000089": {
+        "id": 10000089,
+        "rarity": 5,
+        "name": "Furina",
+        "element": "hydro",
+        "weapon": "sword",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "GIRL",
+        "image": "Furina",
+        "birthday": [
+          10,
+          13
+        ],
+        "release": 1699308000,
+        "route": "Furina"
+      },
+      "10000090": {
+        "id": 10000090,
+        "rarity": "sr",
+        "name": "Chevreuse",
+        "element": "pyro",
+        "weapon": "polearm",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Chevreuse",
+        "birthday": [
+          1,
+          10
+        ],
+        "release": 1704816000,
+        "route": "Chevreuse"
+      },
+      "10000091": {
+        "id": 10000091,
+        "rarity": 5,
+        "name": "Navia",
+        "element": "geo",
+        "weapon": "claymore",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "LADY",
+        "image": "Navia",
+        "birthday": [
+          8,
+          16
+        ],
+        "release": 1702936800,
+        "route": "Navia"
+      },
+      "10000092": {
+        "id": 10000092,
+        "rarity": "sr",
+        "name": "Gaming",
+        "element": "pyro",
+        "weapon": "claymore",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "Gaming",
+        "birthday": [
+          12,
+          22
+        ],
+        "release": 1706565600,
+        "route": "Gaming"
+      },
+      "10000093": {
+        "id": 10000093,
+        "rarity": 5,
+        "name": "Xianyun",
+        "element": "anemo",
+        "weapon": "catalyst",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "LADY",
+        "image": "Liuyun",
+        "birthday": [
+          "sr",
+          11
+        ],
+        "release": 1706565600,
+        "route": "Xianyun"
+      },
+      "10000094": {
+        "id": 10000094,
+        "rarity": 5,
+        "name": "Chiori",
+        "element": "geo",
+        "weapon": "sword",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "GIRL",
+        "image": "Chiori",
+        "birthday": [
+          8,
+          17
+        ],
+        "release": 1710194400,
+        "route": "Chiori"
+      },
+      "10000095": {
+        "id": 10000095,
+        "rarity": 5,
+        "name": "Sigewinne",
+        "element": "hydro",
+        "weapon": "bow",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "LOLI",
+        "image": "Sigewinne",
+        "birthday": [
+          3,
+          30
+        ],
+        "release": 1719414000,
+        "route": "Sigewinne"
+      },
+      "10000096": {
+        "id": 10000096,
+        "rarity": 5,
+        "name": "Arlecchino",
+        "element": "pyro",
+        "weapon": "polearm",
+        "region": "FATUI",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "LADY",
+        "image": "Arlecchino",
+        "birthday": [
+          8,
+          22
+        ],
+        "release": 1713819600,
+        "route": "Arlecchino"
+      },
+      "10000097": {
+        "id": 10000097,
+        "rarity": "sr",
+        "name": "Sethos",
+        "element": "electro",
+        "weapon": "bow",
+        "region": "SUMERU",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "BOY",
+        "image": "Sethos",
+        "birthday": [
+          5,
+          31
+        ],
+        "release": 1717448400,
+        "route": "Sethos"
+      },
+      "10000098": {
+        "id": 10000098,
+        "rarity": 5,
+        "name": "Clorinde",
+        "element": "electro",
+        "weapon": "sword",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "LADY",
+        "image": "Clorinde",
+        "birthday": [
+          9,
+          20
+        ],
+        "release": 1717448400,
+        "route": "Clorinde"
+      },
+      "10000099": {
+        "id": 10000099,
+        "rarity": 5,
+        "name": "Emilie",
+        "element": "dendro",
+        "weapon": "polearm",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "GIRL",
+        "image": "Emilie",
+        "birthday": [
+          9,
+          22
+        ],
+        "release": 1722956400,
+        "route": "Emilie"
+      },
+      "10000100": {
+        "id": 10000100,
+        "rarity": "sr",
+        "name": "Kachina",
+        "element": "geo",
+        "weapon": "polearm",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_ROCK_ADD_HURT",
+        "bodyType": "LOLI",
+        "image": "Kachina",
+        "birthday": [
+          "sr",
+          22
+        ],
+        "release": 1724706000,
+        "route": "Kachina"
+      },
+      "10000101": {
+        "id": 10000101,
+        "rarity": 5,
+        "name": "Kinich",
+        "element": "dendro",
+        "weapon": "claymore",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "BOY",
+        "image": "Kinich",
+        "birthday": [
+          11,
+          11
+        ],
+        "release": 1726585200,
+        "route": "Kinich"
+      },
+      "10000102": {
+        "id": 10000102,
+        "rarity": 5,
+        "name": "Mualani",
+        "element": "hydro",
+        "weapon": "catalyst",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "GIRL",
+        "image": "Mualani",
+        "birthday": [
+          8,
+          3
+        ],
+        "release": 1724706000,
+        "route": "Mualani"
+      },
+      "10000103": {
+        "id": 10000103,
+        "rarity": 5,
+        "name": "Xilonen",
+        "element": "geo",
+        "weapon": "sword",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_DEFENSE_PERCENT",
+        "bodyType": "LADY",
+        "image": "Xilonen",
+        "birthday": [
+          3,
+          13
+        ],
+        "release": 1728334800,
+        "route": "Xilonen"
+      },
+      "10000104": {
+        "id": 10000104,
+        "rarity": 5,
+        "name": "Chasca",
+        "element": "anemo",
+        "weapon": "bow",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "LADY",
+        "image": "Chasca",
+        "birthday": [
+          12,
+          10
+        ],
+        "release": 1731967200,
+        "route": "Chasca"
+      },
+      "10000105": {
+        "id": 10000105,
+        "rarity": "sr",
+        "name": "Ororon",
+        "element": "electro",
+        "weapon": "bow",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "MALE",
+        "image": "Olorun",
+        "birthday": [
+          10,
+          14
+        ],
+        "release": 1731967200,
+        "route": "Ororon"
+      },
+      "10000106": {
+        "id": 10000106,
+        "rarity": 5,
+        "name": "Mavuika",
+        "element": "pyro",
+        "weapon": "claymore",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "LADY",
+        "image": "Mavuika",
+        "birthday": [
+          8,
+          28
+        ],
+        "release": 1735596000,
+        "route": "Mavuika"
+      },
+      "10000107": {
+        "id": 10000107,
+        "rarity": 5,
+        "name": "Citlali",
+        "element": "cryo",
+        "weapon": "catalyst",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "GIRL",
+        "image": "Citlali",
+        "birthday": [
+          1,
+          20
+        ],
+        "release": 1735596000,
+        "route": "Citlali"
+      },
+      "10000108": {
+        "id": 10000108,
+        "rarity": "sr",
+        "name": "Lan Yan",
+        "element": "anemo",
+        "weapon": "catalyst",
+        "region": "LIYUE",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "Lanyan",
+        "birthday": [
+          1,
+          6
+        ],
+        "release": 1737475200,
+        "route": "Lan Yan"
+      },
+      "10000109": {
+        "id": 10000109,
+        "rarity": 5,
+        "name": "Yumemizuki Mizuki",
+        "element": "anemo",
+        "weapon": "catalyst",
+        "region": "INAZUMA",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "GIRL",
+        "image": "Mizuki",
+        "birthday": [
+          3,
+          16
+        ],
+        "release": 1739224800,
+        "route": "Yumemizuki Mizuki"
+      },
+      "10000110": {
+        "id": 10000110,
+        "rarity": "sr",
+        "name": "Iansan",
+        "element": "electro",
+        "weapon": "polearm",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "LOLI",
+        "image": "Iansan",
+        "birthday": [
+          8,
+          8
+        ],
+        "release": 1742853600,
+        "route": "Iansan"
+      },
+      "10000111": {
+        "id": 10000111,
+        "rarity": 5,
+        "name": "Varesa",
+        "element": "electro",
+        "weapon": "catalyst",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "GIRL",
+        "image": "Varesa",
+        "birthday": [
+          11,
+          15
+        ],
+        "release": 1742853600,
+        "route": "Varesa"
+      },
+      "10000112": {
+        "id": 10000112,
+        "rarity": 5,
+        "name": "Escoffier",
+        "element": "cryo",
+        "weapon": "polearm",
+        "region": "FONTAINE",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "GIRL",
+        "image": "Escoffier",
+        "birthday": [
+          6,
+          8
+        ],
+        "release": 1746478800,
+        "route": "Escoffier"
+      },
+      "10000113": {
+        "id": 10000113,
+        "rarity": "sr",
+        "name": "Ifa",
+        "element": "anemo",
+        "weapon": "catalyst",
+        "region": "NATLAN",
+        "specialProp": "FIGHT_PROP_ELEMENT_MASTERY",
+        "bodyType": "MALE",
+        "image": "Ifa",
+        "birthday": [
+          3,
+          23
+        ],
+        "release": 1746478800,
+        "route": "Ifa"
+      },
+      "10000114": {
+        "id": 10000114,
+        "rarity": 5,
+        "name": "Skirk",
+        "element": "cryo",
+        "weapon": "sword",
+        "region": "OMNI_SCOURGE",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "GIRL",
+        "image": "SkirkNew",
+        "birthday": [
+          11,
+          5
+        ],
+        "release": 1750107600,
+        "route": "Skirk"
+      },
+      "10000115": {
+        "id": 10000115,
+        "rarity": "sr",
+        "name": "Dahlia",
+        "element": "hydro",
+        "weapon": "sword",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_HP_PERCENT",
+        "bodyType": "BOY",
+        "image": "Dahlia",
+        "birthday": [
+          5,
+          25
+        ],
+        "release": 1750107600,
+        "route": "Dahlia"
+      },
+      "10000005-pyro": {
+        "id": "10000005-pyro",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "pyro",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "PlayerBoy",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Pyro Traveler Boy",
+        "release": 1735758000
+      },
+      "10000005-hydro": {
+        "id": "10000005-hydro",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "hydro",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "PlayerBoy",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Hydro Traveler Boy",
+        "release": 1690146000
+      },
+      "10000005-anemo": {
+        "id": "10000005-anemo",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "anemo",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "PlayerBoy",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Anemo Traveler Boy",
+        "release": 1601244000
+      },
+      "10000005-geo": {
+        "id": "10000005-geo",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "geo",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "PlayerBoy",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Geo Traveler Boy",
+        "release": 1601244000
+      },
+      "10000005-electro": {
+        "id": "10000005-electro",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "electro",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "PlayerBoy",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Electro Traveler Boy",
+        "release": 1626814800
+      },
+      "10000005-dendro": {
+        "id": "10000005-dendro",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "dendro",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "BOY",
+        "image": "PlayerBoy",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Dendro Traveler Boy",
+        "release": 1657659600
+      },
+      "10000007-pyro": {
+        "id": "10000007-pyro",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "pyro",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "PlayerGirl",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Pyro Traveler Girl",
+        "release": 1735758000
+      },
+      "10000007-hydro": {
+        "id": "10000007-hydro",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "hydro",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "PlayerGirl",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Hydro Traveler Girl",
+        "release": 1690146000
+      },
+      "10000007-anemo": {
+        "id": "10000007-anemo",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "anemo",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "PlayerGirl",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Anemo Traveler Girl",
+        "release": 1601244000
+      },
+      "10000007-geo": {
+        "id": "10000007-geo",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "geo",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "PlayerGirl",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Geo Traveler Girl",
+        "release": 1601244000
+      },
+      "10000007-electro": {
+        "id": "10000007-electro",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "electro",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "PlayerGirl",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Electro Traveler Girl",
+        "release": 1626814800
+      },
+      "10000007-dendro": {
+        "id": "10000007-dendro",
+        "rarity": 5,
+        "name": "Traveler",
+        "element": "dendro",
+        "weapon": "sword",
+        "region": "MAINACTOR",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "image": "PlayerGirl",
+        "birthday": [
+          0,
+          0
+        ],
+        "route": "Dendro Traveler Girl",
+        "release": 1657659600
+      }
+    }
   }
- ]
+]
