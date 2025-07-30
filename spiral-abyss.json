@@ -1,0 +1,26 @@
+{
+  "5.7": {
+    "11": {
+      "1": [{ "name": "Ruin Guard", "count": 2 }],
+      "2": [{ "name": "Abyss Mage", "count": 3 }],
+      "3": [{ "name": "Fatui Agent", "count": 4 }]
+    },
+    "12": {
+      "1": [{ "name": "Ruin Grader", "count": 1 }],
+      "2": [{ "name": "Kairagi", "count": 2 }],
+      "3": [{ "name": "Maguu Kenki", "count": 1 }]
+    }
+  },
+  "5.8": {
+    "11": {
+      "1": [{ "name": "Hilichurl", "count": 5 }],
+      "2": [{ "name": "Slime", "count": 6 }],
+      "3": [{ "name": "Cryo Cicin Mage", "count": 1 }]
+    },
+    "12": {
+      "1": [{ "name": "Electro Slime", "count": 8 }],
+      "2": [{ "name": "Mirror Maiden", "count": 2 }],
+      "3": [{ "name": "Nobushi", "count": 5 }]
+    }
+  }
+}
