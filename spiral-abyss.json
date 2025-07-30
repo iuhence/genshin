@@ -14,10 +14,10 @@
   "5.8": {
     "11": {
       "1": [
-          { "name": "Hilichurl", "count": 5 }
+          { "name": "Hilichurl", "count": 5 },
           { "name": "Samachurl", "count": 10 }],
       "2": [
-          { "name": "Electro Slime", "count": 6 }
+          { "name": "Electro Slime", "count": 6 },
           { "name": "Hydro Slime", "count": 3 }],
       "3": [{ "name": "Cryo Cicin Mage", "count": 1 }]
     },
