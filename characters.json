@@ -1674,7 +1674,7 @@
             "region": "OMNI_SCOURGE",
             "specialProp": "FIGHT_PROP_CRITICAL_HURT",
             "bodyType": "GIRL",
-            "image": "Skirk",
+            "image": "SkirkNew",
             "birthday": [
                 11,
                 5
@@ -1693,11 +1693,28 @@
             "bodyType": "BOY",
             "image": "Dahlia",
             "birthday": [
-                "ssr",
+                5,
                 25
             ],
             "release": 1750107600,
             "route": "Dahlia"
+        },
+        "10000116": {
+            "id": 10000116,
+            "rarity": "ssr",
+            "name": "Ineffa",
+            "element": "electro",
+            "weapon": "polearm",
+            "region": "NODKRAI",
+            "specialProp": "FIGHT_PROP_CRITICAL",
+            "bodyType": "GIRL",
+            "image": "Ineffa",
+            "birthday": [
+                4,
+                25
+            ],
+            "release": 1753910400,
+            "route": "Ineffa"
         },
         "10000005-pyro": {
             "id": "10000005-pyro",
