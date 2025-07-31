@@ -36,14 +36,41 @@
         "region": "???",
         "icon": "UI_MonsterIcon_Fatuus_Maiden_Water"
      },
+     "24010101": {
+        "id": 24010101,
+        "faction": "Automatons",
+        "name": "Ruin Guard",
+        "title": "Hu-91943",
+        "class": "elite",
+        "region": "???",
+        "icon": "UI_MonsterIcon_Defender_Noner_01"
+     },
+     "24030201": {
+        "id": 24030201,
+        "faction": "Automatons",
+        "name": "Ruin Drake: Earthguard",
+        "title": "Faf-10227",
+        "class": "elite",
+        "region": "???",
+        "icon": "UI_MonsterIcon_Gargoyle"
+     },
      "25090101": {
         "id": 25090101,
-        "faction": "Automaton",
+        "faction": "Automatons",
         "name": "Maguu Kenki",
         "title": "Ingenious Machine: Marionette Swordmaster",
         "class": "boss",
         "region": "Inazuma",
         "icon": "UI_MonsterIcon_Samurai_Ningyo"
+     },
+     "25410101": {
+        "id": 25410101,
+        "faction": "Other Human Factions",
+        "name": "Eremite Stone Enchanter",
+        "title": "Retainer of the Wind Glede",
+        "class": "common",
+        "region": "Sumeru",
+        "icon": "UI_MonsterIcon_Eremite_Male_Strong_Katar"
      },
      "25410301": {
         "id": 25410301,
@@ -81,6 +108,15 @@
         "region": "Sumeru",
         "icon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock"
      },   
+     "24069201": {
+        "id": 24069201,
+        "faction": "Automatons",
+        "name": "Construction Specialist Mek",
+        "title": "Meka, Cal. Etienne-Louis",
+        "class": "common",
+        "region": "Fontaine",
+        "icon": "UI_MonsterIcon_MachinaIustitia_Excavator"
+     },  
      "20051001": {
         "id": 20051001,
         "faction": "Elemental Lifeforms",
@@ -125,6 +161,24 @@
         "class": "elite",
         "region": "Natlan",
         "icon": "UI_MonsterIcon_ToothTrap"
+     },
+     "24090201": {
+        "id": 24090201,
+        "faction": "Automatons",
+        "name": "Secret Source Automaton: Configuration Device",
+        "title": "Ancient Ruins Constructor",
+        "class": "boss",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_DragonClaw"
+     },
+     "24090501": {
+        "id": 24090501,
+        "faction": "Automatons",
+        "name": "Secret Source Automaton: Overseer Device",
+        "title": "Ancient Ruins Master Terminal",
+        "class": "boss",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_DragonCollar"
      },
     "25510101": {
         "id": 25510101,
@@ -242,5 +296,68 @@
         "class": "boss",
         "region": "Natlan",
         "icon": "UI_MonsterIcon_TribalWarrior_Udugan"
+     },
+     "26220201": {
+        "id": 26220201,
+        "faction": "Mystical Beasts",
+        "name": "Yumkasaurus",
+        "title": "Ranging Saurians of Natlan",
+        "class": "common",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Normal"
+     },
+     "26220301": {
+        "id": 26220301,
+        "faction": "Mystical Beasts",
+        "name": "Gluttonous Yumkasaur Mountain King",
+        "title": "Lord of the Mountain",
+        "class": "boss",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Natsaurus_Hookwalker_Primo"
+     },
+     "26240201": {
+        "id": 26240201,
+        "faction": "Mystical Beasts",
+        "name": "Iktomisaurus",
+        "title": "Ranging Saurians of Natlan",
+        "class": "common",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Natsaurus_Shamansaurus_Normal"
+     },
+     "26260101": {
+        "id": 26260101,
+        "faction": "Mystical Beasts",
+        "name": "Rock-Cavernous Wayob Manifestation",
+        "title": "Envoy of Night and Wandering Spirits",
+        "class": "elite",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Wayob_Drillhead"
+     },
+     "26260801": {
+        "id": 26260801,
+        "faction": "Mystical Beasts",
+        "name": "Biting-Cold Wayob Manifestation",
+        "title": "Envoy of Night and Wandering Spirits",
+        "class": "elite",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Wayob_Shamansaurus"
+     },
+     "26261101": {
+        "id": 26261101,
+        "faction": "Mystical Beasts",
+        "name": "Thundering Wayob Manifestation",
+        "title": "Envoy of Night and Wandering Spirits",
+        "class": "elite",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Wayob_Bisonsaurus"
+     },
+     "26270201": {
+        "id": 26270201,
+        "faction": "Mystical Beasts",
+        "name": "Eroding Avatar of Lava",
+        "title": "Stoneheart Burning Bright",
+        "class": "common",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Lava_Solid"
      }
 }
