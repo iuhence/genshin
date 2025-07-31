@@ -151,7 +151,7 @@
         "title": "Bravery Saurian-Crowned",
         "class": "common",
         "region": "Natlan",
-        "icon": 25510301
+        "icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Hookwalker"
      },
     "25510401": {
         "id": 25510401,
@@ -160,7 +160,7 @@
         "title": "Bravery Saurian-Crowned",
         "class": "common",
         "region": "Natlan",
-        "icon": 25510401
+        "icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Hookwalker"
      },
      "25510501": {
         "id": 25510501,
@@ -169,7 +169,7 @@
         "title": "Bravery Saurian-Crowned",
         "class": "common",
         "region": "Natlan",
-        "icon": 25510501
+        "icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Mosasaurus"
      },
     "25510601": {
         "id": 25510601,
@@ -178,7 +178,7 @@
         "title": "Bravery Saurian-Crowned",
         "class": "common",
         "region": "Natlan",
-        "icon": 25510601
+        "icon": "UI_MonsterIcon_Tribalwarrior_Launcher_Mosasaurus"
      },
     "25510701": {
         "id": 25510701,
@@ -187,7 +187,7 @@
         "title": "Bravery Saurian-Crowned",
         "class": "common",
         "region": "Natlan",
-        "icon": 25510701
+        "icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Flamingo"
     },
     "25510801": {
         "id": 25510801,
@@ -196,7 +196,7 @@
         "title": "Bravery Saurian-Crowned",
         "class": "common",
         "region": "Natlan",
-        "icon": 25510801
+        "icon": "UI_MonsterIcon_Tribalwarrior_Slingshot_Flamingo"
      },
      "25510901": {
         "id": 25510901,
