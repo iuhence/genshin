@@ -1,10 +1,246 @@
 {
-  "25510701": {
-    "id": 25510701,
-    "faction": "",
-    "name": "Qucusaurus Warrior: Heartstar Hammer",
-    "title": "Bravery Saurian-Crowned",
-    "region": "Natlan",
-    "icon": 25510701
-  }
+    
+    "21020401": {
+        "id": 21020401,
+        "faction": "Hilichurls",
+        "name": "Frostarm Lawachurl",
+        "title": "Ice-Sealed Lawachurl",
+        "class": "elite",
+        "region": "Abyss",
+        "icon": "UI_MonsterIcon_Brute_Ice_01"
+     },
+    "21020501": {
+        "id": 21020501,
+        "faction": "Hilichurls",
+        "name": "Stonehide Lawachurl",
+        "title": "Stone Sealed Lawachurl",
+        "class": "elite",
+        "region": "Abyss",
+        "icon": "UI_MonsterIcon_Brute_Rock_None"
+     },
+     "21020801": {
+        "id": 21020801,
+        "faction": "Hilichurls",
+        "name": "Thunderhelm Lawachurl",
+        "title": "Storm Sealed Lawachurl",
+        "class": "elite",
+        "region": "Abyss",
+        "icon": "UI_MonsterIcon_Brute_Electric_01"
+     },
+     "23050101": {
+        "id": 23050101,
+        "faction": "Fatui",
+        "name": "Mirror Maiden",
+        "title": "Aniya",
+        "class": "elite",
+        "region": "???",
+        "icon": "UI_MonsterIcon_Fatuus_Maiden_Water"
+     },
+     "25090101": {
+        "id": 25090101,
+        "faction": "Automaton",
+        "name": "Maguu Kenki",
+        "title": "Ingenious Machine: Marionette Swordmaster",
+        "class": "boss",
+        "region": "Inazuma",
+        "icon": "UI_MonsterIcon_Samurai_Ningyo"
+     },
+     "25410301": {
+        "id": 25410301,
+        "faction": "Other Human Factions",
+        "name": "Eremite Scorching Loremaster",
+        "title": "Augury of the Foretold Flame",
+        "class": "common",
+        "region": "Sumeru",
+        "icon": "UI_MonsterIcon_Eremite_Female_Standard_Oracle"
+     },
+     "26100101": {
+        "id": 26100101,
+        "faction": "Mystical Beasts",
+        "name": "Consecrated Horned Crocodile",
+        "title": "The Surging One, Devourer of the Mighty",
+        "class": "common",
+        "region": "Sumeru",
+        "icon": "UI_MonsterIcon_Gator_Sacred_Water"
+     },
+    "26120301": {
+        "id": 26120301,
+        "faction": "Mystical Beasts",
+        "name": "Grounded Hydroshroom",
+        "title": "The Shroom Surpassing",
+        "class": "common",
+        "region": "Sumeru",
+        "icon": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water"
+     },
+     "26120401": {
+        "id": 26120401,
+        "faction": "Mystical Beasts",
+        "name": "Grounded Geoshroom",
+        "title": "The Shroom Surpassing",
+        "class": "common",
+        "region": "Sumeru",
+        "icon": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock"
+     },   
+     "20051001": {
+        "id": 20051001,
+        "faction": "Elemental Lifeforms",
+        "name": "Tainted Water-Splitting Phantasm",
+        "title": "Life Evolved by the Fontemer",
+        "class": "common",
+        "region": "Fontaine",
+        "icon": "UI_MonsterIcon_Necalevia_Normal"
+     },
+     "20051101": {
+        "id": 20051101,
+        "faction": "Elemental Lifeforms",
+        "name": "Tainted Water-Spouting Phantasm",
+        "title": "Life Evolved by the Fontemer",
+        "class": "common",
+        "region": "Fontaine",
+        "icon": "UI_MonsterIcon_Necalevia_Big"
+     },
+     "26160101": {
+        "id": 26160101,
+        "faction": "Mystical Beasts",
+        "name": "Sternshield Crab",
+        "title": "Life Evolved by the Fontemer",
+        "class": "common",
+        "region": "Fontaine",
+        "icon": "UI_MonsterIcon_HermitCrab_Mature"
+     },
+     "26160301": {
+        "id": 26160301,
+        "faction": "Mystical Beasts",
+        "name": "Bubbler Seahorse",
+        "title": "Life Evolved by the Fontemer",
+        "class": "common",
+        "region": "Fontaine",
+        "icon": "UI_MonsterIcon_SeaHorse_Mature"
+     },
+    "24090101": {
+        "id": 24090101,
+        "faction": "Automatons",
+        "name": "Secret Source Automaton: Hunter-Seeker",
+        "title": "Ancient Ruins Collector",
+        "class": "elite",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_ToothTrap"
+     },
+    "25510101": {
+        "id": 25510101,
+        "faction": "Other Human Factions",
+        "name": "Tepetlisaurus Warrior: Shard Striker",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Tribalwarrior_Powermaul_Drillhead"
+     },
+    "25510201": {
+        "id": 25510201,
+        "faction": "Other Human Factions",
+        "name": "Tepetlisaurus Warrior: Rockbreaker Blade",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_Tribalwarrior_Chainsword_Drillhead"
+     },
+    "25510301": {
+        "id": 25510301,
+        "faction": "Other Human Factions",
+        "name": "Yumkasaurus Warrior: Whirling Leaves",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25510301
+     },
+    "25510401": {
+        "id": 25510401,
+        "faction": "Other Human Factions",
+        "name": "Yumkasaurus Warrior: Flowing Skyfire",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25510401
+     },
+     "25510501": {
+        "id": 25510501,
+        "faction": "Other Human Factions",
+        "name": "Koholasaurus Warrior: Waveshutter",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25510501
+     },
+    "25510601": {
+        "id": 25510601,
+        "faction": "Other Human Factions",
+        "name": "Yumkasaurus Warrior: Reefsplitter",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25510601
+     },
+    "25510701": {
+        "id": 25510701,
+        "faction": "Other Human Factions",
+        "name": "Qucusaurus Warrior: Heartstar Hammer",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25510701
+    },
+    "25510801": {
+        "id": 25510801,
+        "faction": "Other Human Factions",
+        "name": "Qucusaurus Warrior: Blazing Sky",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25510801
+     },
+     "25510901": {
+        "id": 25510901,
+        "faction": "Other Human Factions",
+        "name": "Iktomisaurus Warrior: Icy Tidebearer",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25510901
+     },
+     "25511001": {
+        "id": 25511001,
+        "faction": "Other Human Factions",
+        "name": "Iktomisaurus Warrior: Cryocrystal Cannon",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25511001
+     },
+    "25511101": {
+        "id": 25511101,
+        "faction": "Other Human Factions",
+        "name": "Tatankasaurus Warrior: Skybreaker",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25511101
+     },
+     "25511201": {
+        "id": 25511201,
+        "faction": "Other Human Factions",
+        "name": "Tatankasaurus Warrior: Spiritlight Chaser",
+        "title": "Bravery Saurian-Crowned",
+        "class": "common",
+        "region": "Natlan",
+        "icon": 25511201
+     },
+     "25520101": {
+        "id": 25520101,
+        "faction": "Other Human Factions",
+        "name": "Wayward Hermetic Spiritspeaker",
+        "title": "Sequestered Priestess",
+        "class": "boss",
+        "region": "Natlan",
+        "icon": "UI_MonsterIcon_TribalWarrior_Udugan"
+     }
 }
