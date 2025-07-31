@@ -1,30 +1,72 @@
 {
   "5.7": {
     "11": {
-      "1": [{ "name": "Ruin Guard", "count": 2 }],
-      "2": [{ "name": "Abyss Mage", "count": 3 }],
-      "3": [{ "name": "Fatui Agent", "count": 4 }]
-    },
+      "1":  {
+        "1": [
+          { "id": 25510701, "count": 1 },
+          { "id": 25510801, "count": 1 },
+          { "id": 25510601, "count": 1 },
+          { "id": 25510701, "count": 1 },
+          { "id": 25510101, "count": 1 },
+          { "id": 25510201, "count": 1 }],
+        "2": [
+          { "id": 24090101, "count": 2 }]},
+      "2": {
+        "1": [
+          { "id": 26120301, "count": 1 },
+          { "id": 26120401, "count": 1 },
+          { "id": 26160101, "count": 1 },
+          { "id": 26160301, "count": 1 },
+          { "id": 21020501, "count": 1 },
+          { "id": 21020801, "count": 1 }],
+        "2": [
+          { "id": 21020401, "count": 1 },
+          { "id": 20051101, "count": 1 }]},
+      "3": {
+        "1": [
+          { "id": 25090101, "count": 1 }],
+        "2": [
+          { "id": 23050101, "count": 1 },
+          { "id": 26100101, "count": 1 },
+          { "id": 25410301, "count": 1 }]}   
+      },
     "12": {
-      "1": [{ "name": "Ruin Grader", "count": 1 }],
-      "2": [{ "name": "Kairagi", "count": 2 }],
-      "3": [{ "name": "Maguu Kenki", "count": 1 }]
-    }
+      "1":  {
+        "1": [
+          { "id": 25510701, "count": 1 },
+          { "id": 25510801, "count": 1 },
+          { "id": 25510601, "count": 1 },
+          { "id": 25510701, "count": 1 },
+          { "id": 25510101, "count": 1 },
+          { "id": 25510201, "count": 1 }],
+        "2": [
+          { "id": 24090101, "count": 2 }]},
+      "2": {
+        "1": [
+          { "id": 26120301, "count": 1 }],
+        "2": [
+          { "id": 26120301, "count": 1 }]},
+      "3": {
+        "1": [
+          { "id": 26120301, "count": 1 }],
+        "2": [
+          { "id": 26120301, "count": 1 }]}   
+      }
   },
   "5.8": {
     "11": {
       "1": [
-          { "name": "Hilichurl", "count": 5 },
-          { "name": "Samachurl", "count": 10 }],
+          { "id": "Hilichurl", "count": 5 },
+          { "id": "Samachurl", "count": 10 }],
       "2": [
-          { "name": "Electro Slime", "count": 6 },
-          { "name": "Hydro Slime", "count": 3 }],
-      "3": [{ "name": "Cryo Cicin Mage", "count": 1 }]
+          { "id": "Electro Slime", "count": 6 },
+          { "id": "Hydro Slime", "count": 3 }],
+      "3": [{ "id": "Cryo Cicin Mage", "count": 1 }]
     },
     "12": {
-      "1": [{ "name": "Electro Slime", "count": 8 }],
-      "2": [{ "name": "Mirror Maiden", "count": 2 }],
-      "3": [{ "name": "Nobushi", "count": 5 }]
+      "1": [{ "id": "Electro Slime", "count": 8 }],
+      "2": [{ "id": "Mirror Maiden", "count": 2 }],
+      "3": [{ "id": "Nobushi", "count": 5 }]
     }
   }
 }
