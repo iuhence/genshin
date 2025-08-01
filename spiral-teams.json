@@ -35,32 +35,57 @@
     "11": {
       "phase1": [
         {
-          "name": "",
+          "name": "no idea tbh",
           "notes": "",
-          "members": ["", "", "", ""]
+          "members": ["10000031", "10000105", "10000089", "10000116"]
+        },
+        {
+          "name": "pewpew fireworks",
+          "notes": "",
+          "members": ["Yoimiya", "10000031", "10000025", "10000024"]
         }
       ],
       "phase2": [
         {
-          "name": "",
+          "name": "xiao prem",
           "notes": "",
-          "members": ["", "", "", ""]
+          "members": ["10000026", "10000093", "Faruzan", "10000089"]
         }
       ]
     },
     "12": {
       "phase1": [
         {
-          "name": "",
-          "notes": "",
-          "members": ["", "", "", ""]
+          "name": "Skirk Premium",
+          "notes": "N/A",
+          "members": ["10000114", "10000112", "10000063", "10000089"]
+        },
+        {
+          "name": "Squirk",
+          "notes": "N/A",
+          "members": ["10000114", "10000089", "10000060", "10000088"]
+        },
+        {
+          "name": "Neuvi-spin",
+          "notes": "N/A",
+          "members": ["Neuvillette", "10000089", "10000107", "10000112"]
         }
       ],
       "phase2": [
         {
-          "name": "",
-          "notes": "",
-          "members": ["", "", "", ""]
+          "name": "Mavuika Premium",
+          "notes": "N/A",
+          "members": ["10000106", "10000107", "10000103", "10000032"]
+        },
+        {
+          "name": "Raiden Overload",
+          "notes": "N/A",
+          "members": ["10000052", "10000090", "10000023", "10000032"]
+        },
+        {
+          "name": "Burning",
+          "notes": "N/A",
+          "members": ["10000101", "10000106", "10000099", "10000032"]
         }
       ]
     }
