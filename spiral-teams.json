@@ -6,6 +6,11 @@
           "name": "Mono Cryo",
           "notes": "Good against grouped enemies with high physical res.",
           "members": ["10000086", "10000112", "10000060", "10000103"]
+        },
+        {
+          "name": "Mono Cryer",
+          "notes": "Good against grouped enemies with high elemental res.",
+          "members": ["10000086", "10000060", "10000112", "10000103"]
         }
       ],
       "phase2": [
@@ -13,6 +18,11 @@
           "name": "Overload",
           "notes": "Very effective vs. Electro slimes.",
           "members": ["10000101", "10000106", "10000099", "10000032"]
+        },
+        {
+          "name": "Loadover",
+          "notes": "Very effective vs. Electro Lawachurls.",
+          "members": ["10000101", "10000106", "10000032", "10000099"]
         }
       ]
     },
