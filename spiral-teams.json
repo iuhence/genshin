@@ -122,9 +122,14 @@
     "12": {
       "phase1": [
         {
-          "name": "",
-          "notes": "",
-          "members": ["", "", "", ""]
+          "name": "Neuvilette Lunar-Taser",
+          "notes": "Most optimal comp, can easily counter bosses' mechanic.",
+          "members": ["10000087", "10000089", "10000116", "10000103"]
+        },
+        {
+          "name": "Varesa Hypercarry",
+          "notes": "Applies Taser while buffing Varesa's DMG output.",
+          "members": ["10000111", "10000093", "10000089", "10000110"]
         }
       ],
       "phase2": [
