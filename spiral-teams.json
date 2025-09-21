@@ -130,6 +130,16 @@
           "name": "Varesa Hypercarry",
           "notes": "Applies Taser while buffing Varesa's DMG output.",
           "members": ["10000111", "10000093", "10000089", "10000110"]
+        },
+        {
+          "name": "Clorinde Taser",
+          "notes": "Applies Taser while buffing the teams's overall DMG output.",
+          "members": ["10000098", "10000089", "10000060", "10000003"]
+        },
+        {
+          "name": "Sucrose Taser",
+          "notes": "A budget team comp, but still proves useful.",
+          "members": ["10000116", "10000043", "10000031", "10000025"]
         }
       ],
       "phase2": [
