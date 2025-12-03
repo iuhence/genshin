@@ -1492,7 +1492,7 @@
         "region": "NODKRAI",
         "specialProp": "FIGHT_PROP_CRITICAL",
         "bodyType": "Girl",
-        "icon": "UI_AvatarIcon_Columbina",
+        "icon": "UI_AvatarIcon_Nefer",
         "birthday": [5, 9],
         "release": 1760994000,
         "route": "Nefer"
