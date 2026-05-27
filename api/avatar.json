@@ -1567,6 +1567,48 @@
         "release": 1768942800,
         "route": "Illuga"
       },
+      "10000128": {
+        "id": 10000128,
+        "rank": 5,
+        "name": "Varka",
+        "element": "Wind",
+        "weaponType": "WEAPON_CLAYMORE",
+        "region": "MONDSTADT",
+        "specialProp": "FIGHT_PROP_CRITICAL_HURT",
+        "bodyType": "MALE",
+        "icon": "UI_AvatarIcon_Varka",
+        "birthday": [2, 17],
+        "release": 1771884000,
+        "route": "Varka"
+      },
+      "10000130": {
+        "id": 10000130,
+        "rank": 5,
+        "name": "Linnea",
+        "element": "Rock",
+        "weaponType": "WEAPON_BOW",
+        "region": "NODKRAI",
+        "specialProp": "FIGHT_PROP_CRITICAL",
+        "bodyType": "GIRL",
+        "icon": "UI_AvatarIcon_Linnea",
+        "birthday": [5, 23],
+        "release": 1775509200,
+        "route": "Linnea"
+      },
+      "10000131": {
+        "id": 100001310,
+        "rank": 5,
+        "name": "Nicole",
+        "element": "Fire",
+        "weaponType": "WEAPON_CATALYST",
+        "region": "NODKRAI",
+        "specialProp": "FIGHT_PROP_ATTACK_PERCENT",
+        "bodyType": "GIRL",
+        "icon": "UI_AvatarIcon_Nicole",
+        "birthday": [9, 29],
+        "release": 1779246000,
+        "route": "Linnea"
+      },
       "10000005-pyro": {
         "id": "10000005-pyro",
         "rank": 5,
