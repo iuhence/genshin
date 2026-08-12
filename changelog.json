@@ -1,0 +1,70 @@
+[
+  {
+    "version": "1.3 Update",
+    "date": "12/8/2026",
+    "sections": [
+      {
+        "title": "Homepage Rebuild",
+        "items": [
+          "Added a \"What's New\" callout with Characters and Artifacts grids, plus a plain \"Character Guides\" list linking to real guide pages, each tagged New/Buffed/Stellar.",
+          "Added this changelog as an in-page modal instead of a dead link, opened from a new header button.",
+          "Added Characters/Weapons quick-nav buttons to the header, next to Changelog and the Star Rail cross-link."
+        ]
+      },
+      {
+        "title": "Layout & Spacing",
+        "items": [
+          "Increased and unified the sidebar-clearance margin across every page — including the combat pages, which had their own separate value until now.",
+          "Moved page-root spacing into a single shared .main-page class instead of each page re-declaring the same margin formula."
+        ]
+      },
+      {
+        "title": "Mobile Pass",
+        "items": [
+          "Collapsed the header to icon-only buttons on narrow screens and hid the Characters/Weapons pills there, since the bottom nav bar already covers them.",
+          "Tightened padding and card sizing on the homepage callout boxes and this changelog modal for small viewports."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.2 Update",
+    "date": "12/8/2026",
+    "sections": [
+      {
+        "title": "Header & Theme Overhaul",
+        "items": [
+          "Replaced the sticky header with a Snezhnaya-branded bar, and moved the site logo down to the footer.",
+          "Reworked light/dark mode into a purple-and-white / blue-and-black color system, with a sliding toggle switch instead of an icon button."
+        ]
+      },
+      {
+        "title": "Character & Weapon Pages",
+        "items": [
+          "Switched character and weapon icons to a portrait 3:4 crop to keep every card the same size.",
+          "Migrated character data over to the Yatta API and hid elementless characters (like Manekin) from the roster."
+        ]
+      }
+    ]
+  },
+  {
+    "version": "1.1 Update",
+    "date": "11/8/2026",
+    "sections": [
+      {
+        "title": "Layout Unification",
+        "items": [
+          "Centralized page spacing behind shared CSS variables, so the sidebar and header gap stay consistent across every page.",
+          "Added a non-sticky footer with Discord/Twitter links and an intellectual property notice."
+        ]
+      },
+      {
+        "title": "Filter & Grid Styling",
+        "items": [
+          "Retheme filter buttons and grid panels across the character, weapon, artifact, and enemy pages.",
+          "Fixed icon-tile filter buttons washing out in light mode by giving them a fixed dark purple background."
+        ]
+      }
+    ]
+  }
+]
