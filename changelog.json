@@ -1,5 +1,57 @@
 [
   {
+    "version": "2.0 Update",
+    "date": "8/9/2026",
+    "sections": [
+      {
+        "title": "Sheet Builder",
+        "items": [
+          "Launched the character sheet builder as its own major version line, starting at 2.0 — everything below is new to this tool.",
+          "All sheet art (frame, stat icons, fonts, region icons, backgrounds) now streams live from the iuhence/genshin GitHub repo instead of local files."
+        ]
+      },
+      {
+        "title": "Character Selection & Portrait",
+        "items": [
+          "Default character on load is now the Traveler instead of a blank placeholder, and re-selecting the currently active character no longer wipes its skill/constellation/material data.",
+          "Character names render in their natural case (\"Kamisato Ayaka\") instead of forced ALL CAPS, and the element theme row is now a read-only display driven by the character instead of a manual toggle.",
+          "Rebuilt the character portrait: shows the character's namecard art faded and tinted to their element behind a full-height icon, with a rarity star badge in the corner and an edge fade so wide portraits no longer crop with a hard cut.",
+          "Every panel header now carries a fading namecard background in the character's element color; the Traveler, Aloy, and other characters without a real Teyvat region get a starfield background instead, on both the header and the main sheet background."
+        ]
+      },
+      {
+        "title": "Materials Panel",
+        "items": [
+          "Ascension and Talent material costs now auto-fill straight from the character API — correctly grouped into common drops, talent books, Mora, and Crown of Insight — while staying manually editable.",
+          "Redesigned material tiles as icon-badge pills instead of plain squares, and fixed a layout bug where they could overflow their grid and overlap neighboring panels."
+        ]
+      },
+      {
+        "title": "Weapons",
+        "items": [
+          "Replaced rotated diamond weapon slots with square tiles, freeing up space for bigger icons and tighter, more even spacing.",
+          "Weapon picker now only shows weapons matching the selected character's weapon type, sorted by rarity.",
+          "Added a refinement (R1–R5) badge to every weapon slot, invisible until set so unrefined slots stay clean."
+        ]
+      },
+      {
+        "title": "Skill Priority & Constellation",
+        "items": [
+          "The \">\" / \"x\" operators between Skill, Burst, and Normal are now click-to-cycle, including a \"None\" state that leaves blank space instead of an empty circle.",
+          "Picking a constellation icon now sets its level and title automatically instead of typing them in by hand; the description field stays manually editable and now supports ++highlight++ text like Notes."
+        ]
+      },
+      {
+        "title": "Picker Modals",
+        "items": [
+          "Character, weapon, synergy, and artifact pickers now show icon-only tiles at a much larger size instead of icon-plus-name rows, with search still working by name.",
+          "Character and weapon tiles are tinted by rarity (gold/purple/blue/green/grey for 5★ down to 1★), matching the color already used for synergy tiles on the sheet.",
+          "Widened the modal and tightened spacing so more tiles fit on screen per scroll."
+        ]
+      }
+    ]
+  },
+  {
     "version": "1.3 Update",
     "date": "12/8/2026",
     "sections": [
