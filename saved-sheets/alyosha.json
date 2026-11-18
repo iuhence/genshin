@@ -1,0 +1,323 @@
+{
+  "charId": "Alyosha",
+  "name": "Alyosha",
+  "element": "electro",
+  "weaponType": "WEAPON_POLE",
+  "splash": "https://gi.yatta.moe/assets/UI/UI_Gacha_AvatarImg_Alyosha.png?vh=2024123000",
+  "skillIcon": "https://gi.yatta.moe/assets/UI/Skill_S_Alyosha_01.png?vh=2024123000",
+  "burstIcon": "https://gi.yatta.moe/assets/UI/Skill_E_Alyosha_01.png?vh=2024123000",
+  "normalIcon": "https://gi.yatta.moe/assets/UI/Skill_A_03.png?vh=2024123000",
+  "constIcon": "https://gi.yatta.moe/assets/UI/UI_Talent_S_Alyosha_04.png?vh=2024123000",
+  "region": "SNEZHNAYA",
+  "regionIcon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/regionIcons/snezhnaya.png",
+  "bgImage": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/backgrounds/snezhnaya.png",
+  "namecardBg": "https://enka.network/ui/UI_NameCardPic_Alyosha_Alpha.png",
+  "skillOps": [
+    ">",
+    "x"
+  ],
+  "constLevel": "C6",
+  "constTitle": "Standard Reclaimed",
+  "constDesc": "C6 allows ++Hunter's Precision++ effect to stack twice when activated by ++Hunter's Mark++, providing the active character with 200 ++Elemental Mastery++.",
+  "notes": [
+    "Alyosha caps at 200% ER for 70% ++Elemental Skill++ and ++Elemental Burst++ DMG.",
+    "Applies ATK buff and 20% ++Stellar Conduct++ DMG Bonus to the active character upon obtaining the ++Hunter Precision++ effect."
+  ],
+  "artifacts": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15048_4.png?vh=2024123000",
+      "name": "Heart of\nthe Furnace",
+      "icon2": "",
+      "set1": "Heart of the Furnace",
+      "set2": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15007_4.png?vh=2024123000",
+      "name": "Noblesse Oblige",
+      "icon2": "",
+      "set1": "Noblesse Oblige",
+      "set2": ""
+    },
+    {
+      "icon": "",
+      "name": "",
+      "icon2": "",
+      "set1": "",
+      "set2": ""
+    },
+    {
+      "icon": "",
+      "name": "",
+      "icon2": "",
+      "set1": "",
+      "set2": ""
+    }
+  ],
+  "statRows": [
+    {
+      "slot": "sands",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Sands_of_Eon.png",
+      "label": "ER% / ATK%"
+    },
+    {
+      "slot": "goblet",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Goblet_of_Eonothem.png",
+      "label": "ATK% "
+    },
+    {
+      "slot": "circlet",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Circlet_of_Logos.png",
+      "label": "HB / Crit Rate"
+    }
+  ],
+  "chips": [
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/ATK.png",
+      "label": "2000+"
+    },
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/CRIT%20Rate.png",
+      "label": "70%"
+    },
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Energy%20Recharge.png",
+      "label": "160-200%"
+    },
+    {
+      "row": 1,
+      "icon": "",
+      "label": ""
+    },
+    {
+      "row": 1,
+      "icon": "",
+      "label": ""
+    }
+  ],
+  "substats": [
+    "er",
+    "atk",
+    "critrate",
+    "",
+    ""
+  ],
+  "substatOps": [
+    ">",
+    ">",
+    "",
+    ""
+  ],
+  "weapons": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_Narukami.png?vh=2024123000",
+      "name": "Engulfing Lightning",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_Santika.png?vh=2024123000",
+      "name": "Calamity Queller",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_Trident.png?vh=2024123000",
+      "name": "Symphonist of Scents",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_Dvalin.png?vh=2024123000",
+      "name": "Skyward Spine",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_Zephyrus.png?vh=2024123000",
+      "name": "Favonius Lance",
+      "rarity": 4,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_FaesCrystalle.png?vh=2024123000",
+      "name": "Frostbreath",
+      "rarity": 4,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_Mori.png?vh=2024123000",
+      "name": "\"The Catch\"",
+      "rarity": 4,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Pole_Aoandon.png?vh=2024123000",
+      "name": "Tamayuratei no Ohanashi",
+      "rarity": 4,
+      "refine": "1"
+    }
+  ],
+  "synergies": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Odette.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Odette"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_MarionetteNew.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Sandrone"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Wriothesley.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Wriothesley"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Cyno.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Cyno"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Yae.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Yae Miko"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "https://gi.yatta.moe/assets/UI/UI_Buff_Element_Ice.png?vh=2024123000",
+      "name": "Traveler (Boy)"
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    }
+  ],
+  "ascension": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_202.png?vh=2024123000",
+      "qty": "2.09M"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104142.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112149.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_101276.png?vh=2024123000",
+      "qty": "168"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104003.png?vh=2024123000",
+      "qty": "419"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104143.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112150.png?vh=2024123000",
+      "qty": "30"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_113091.png?vh=2024123000",
+      "qty": "46"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104141.png?vh=2024123000",
+      "qty": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104144.png?vh=2024123000",
+      "qty": "6"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112151.png?vh=2024123000",
+      "qty": "36"
+    }
+  ],
+  "talents": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_202.png?vh=2024123000",
+      "qty": "4.96M"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112149.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104368.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_113083.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112150.png?vh=2024123000",
+      "qty": "66"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104369.png?vh=2024123000",
+      "qty": "63"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104319.png?vh=2024123000",
+      "qty": "3"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112151.png?vh=2024123000",
+      "qty": "93"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104370.png?vh=2024123000",
+      "qty": "114"
+    }
+  ],
+  "credit": "Mango · iuhence",
+  "discord": "discord.gg/FortOfFans"
+}
