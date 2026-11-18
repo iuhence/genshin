@@ -1,0 +1,304 @@
+{
+  "charId": "Vesna",
+  "name": "Vesna",
+  "element": "anemo",
+  "weaponType": "WEAPON_SWORD_ONE_HAND",
+  "splash": "https://gi.yatta.moe/assets/UI/UI_Gacha_AvatarImg_Vesna.png?vh=2024123000",
+  "skillIcon": "https://gi.yatta.moe/assets/UI/Skill_S_Vesna_01.png?vh=2024123000",
+  "burstIcon": "https://gi.yatta.moe/assets/UI/Skill_E_Vesna_01.png?vh=2024123000",
+  "normalIcon": "https://gi.yatta.moe/assets/UI/Skill_A_01.png?vh=2024123000",
+  "constIcon": "https://gi.yatta.moe/assets/UI/UI_Talent_S_Vesna_01.png?vh=2024123000",
+  "region": "SNEZHNAYA_STAR",
+  "regionIcon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/regionIcons/snezhnaya_star.png",
+  "bgImage": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/regionIcons/stars.png",
+  "namecardBg": "https://enka.network/ui/UI_NameCardPic_Vesna_Alpha.png",
+  "skillOps": [
+    ">",
+    "x"
+  ],
+  "constLevel": "C1",
+  "constTitle": "Winter's Farewell Feast",
+  "constDesc": "C1 allows Vesna to unleash ++Windborne Sword++ up to 4 times, and will not consume ++Sword Essence++ on the first time she uses ++Windborne Sword++ at the highest level.",
+  "notes": [
+    "Vesna caps at 2000 ATK for 14% Base ++Stellar Swirl++ DMG.",
+    "Requires ++Sword Essence++ consumed in order to activate her special ++Elemental Skill: Windborne Sword++, which deals ++Stellar Swirl++ DMG and increases its damage with each use, up to 3 times.",
+    "Gains 6% ATK per ++Anemo++ or ++Cryo++ character and 25 EM per other elemental types in the party.\n"
+  ],
+  "artifacts": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15047_4.png?vh=2024123000",
+      "name": "Scarlet Proof",
+      "icon2": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15026_4.png?vh=2024123000",
+      "name": "Gilded Dreams",
+      "icon2": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15001_4.png?vh=2024123000",
+      "name": "ATK% / ATK%\n2-piece",
+      "icon2": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15019_4.png?vh=2024123000"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15002_4.png?vh=2024123000",
+      "name": "Viridescent Venerer",
+      "icon2": ""
+    }
+  ],
+  "statRows": [
+    {
+      "slot": "sands",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Sands_of_Eon.png",
+      "label": "ATK% / EM"
+    },
+    {
+      "slot": "goblet",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Goblet_of_Eonothem.png",
+      "label": "ATK% / EM"
+    },
+    {
+      "slot": "circlet",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Circlet_of_Logos.png",
+      "label": "Crit Rate / DMG"
+    }
+  ],
+  "chips": [
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/ATK.png",
+      "label": "2000+"
+    },
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/CRIT%20Rate.png",
+      "label": "70%"
+    },
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/CRIT%20DMG.png",
+      "label": "140-200%"
+    },
+    {
+      "row": 1,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Energy%20Recharge.png",
+      "label": "100-140%"
+    },
+    {
+      "row": 1,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Elemental%20Mastery.png",
+      "label": "100+"
+    }
+  ],
+  "substats": [
+    "critrate",
+    "critdmg",
+    "atk",
+    "em",
+    "er"
+  ],
+  "substatOps": [
+    "=",
+    ">",
+    ">",
+    ">"
+  ],
+  "weapons": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Samosvist.png?vh=2024123000",
+      "name": "Beyond the Chrysalis",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Swanlake.png?vh=2024123000",
+      "name": "Whitelake Frostfeather",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_SpikedStake.png?vh=2024123000",
+      "name": "New Bough",
+      "rarity": 4,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_OuterSword.png?vh=2024123000",
+      "name": "Azurelight",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Estoc.png?vh=2024123000",
+      "name": "Absolution",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_GlintstoneSword.png?vh=2024123000",
+      "name": "Emberwell",
+      "rarity": 4,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Vorpal.png?vh=2024123000",
+      "name": "Finale of the Deep",
+      "rarity": 4,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Fajian.png?vh=2024123000",
+      "name": "Silver Light",
+      "rarity": 4,
+      "refine": "5"
+    }
+  ],
+  "synergies": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Odette.png?vh=2024123000",
+      "rarity": 5,
+      "badge": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Faruzan.png?vh=2024123000",
+      "rarity": 4,
+      "badge": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Vodyanitsa.png?vh=2024123000",
+      "rarity": 5,
+      "badge": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "https://gi.yatta.moe/assets/UI/UI_Buff_Element_Ice.png?vh=2024123000"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Nicole.png?vh=2024123000",
+      "rarity": 5,
+      "badge": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Qiqi.png?vh=2024123000",
+      "rarity": 5,
+      "badge": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Qin.png?vh=2024123000",
+      "rarity": 5,
+      "badge": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Diona.png?vh=2024123000",
+      "rarity": 4,
+      "badge": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Sucrose.png?vh=2024123000",
+      "rarity": 4,
+      "badge": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": ""
+    }
+  ],
+  "ascension": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_202.png?vh=2024123000",
+      "qty": "2.09M"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104152.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112146.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_101277.png?vh=2024123000",
+      "qty": "168"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104003.png?vh=2024123000",
+      "qty": "419"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104153.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112147.png?vh=2024123000",
+      "qty": "30"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_113092.png?vh=2024123000",
+      "qty": "46"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104151.png?vh=2024123000",
+      "qty": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104154.png?vh=2024123000",
+      "qty": "6"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112148.png?vh=2024123000",
+      "qty": "36"
+    }
+  ],
+  "talents": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_202.png?vh=2024123000",
+      "qty": "4.96M"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112146.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104371.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_113089.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112147.png?vh=2024123000",
+      "qty": "66"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104372.png?vh=2024123000",
+      "qty": "63"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104319.png?vh=2024123000",
+      "qty": "3"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112148.png?vh=2024123000",
+      "qty": "93"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104373.png?vh=2024123000",
+      "qty": "114"
+    }
+  ],
+  "credit": "Mango · iuhence",
+  "discord": "discord.gg/FortOfFans"
+}
