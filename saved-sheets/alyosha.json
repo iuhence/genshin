@@ -73,8 +73,8 @@
   "chips": [
     {
       "row": 0,
-      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/ATK.png",
-      "label": "2000+"
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Elemental%20Mastery.png",
+      "label": "100+"
     },
     {
       "row": 0,
