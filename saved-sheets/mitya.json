@@ -1,1 +1,323 @@
-
+{
+  "charId": "Mitya",
+  "name": "Mitya",
+  "element": "electro",
+  "weaponType": "WEAPON_CATALYST",
+  "splash": "https://gi.yatta.moe/assets/UI/UI_Gacha_AvatarImg_Mitya.png?vh=2024123000",
+  "skillIcon": "https://gi.yatta.moe/assets/UI/Skill_A_Catalyst_MD.png?vh=2024123000",
+  "burstIcon": "https://gi.yatta.moe/assets/UI/Skill_E_Mitya_01.png?vh=2024123000",
+  "normalIcon": "https://gi.yatta.moe/assets/UI/Skill_S_Mitya_01.png?vh=2024123000",
+  "constIcon": "https://gi.yatta.moe/assets/UI/UI_Talent_S_Mitya_02.png?vh=2024123000",
+  "region": "SNEZHNAYA_STAR",
+  "regionIcon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/regionIcons/snezhnaya_star.png",
+  "bgImage": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/regionIcons/stars.png",
+  "namecardBg": "https://enka.network/ui/UI_NameCardPic_Mitya_Alpha.png",
+  "skillOps": [
+    ">",
+    ">"
+  ],
+  "constLevel": "C2",
+  "constTitle": "The Matter That Slumbers Beyond Inertness",
+  "constDesc": "C2 reduces enemies' Electro and Cryo RES within the Polestar Field by 20%, also provides Elemental Mastery based on the Detection Core's state",
+  "notes": [
+    "Mitya caps at 500 EM for 14% Base ++Stellar Conduct++ DMG.",
+    "Requires ++Gradient Beacon++ stacks by triggering ++Stellar Conduct++ reactions or using his ++Elemental Burst++ in order to use his special Charged Attack, dealing ++Stellar-Conduct++ DMG."
+  ],
+  "artifacts": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15026_4.png?vh=2024123000",
+      "name": "Gilded \nDreams",
+      "icon2": "",
+      "set1": "Gilded Dreams",
+      "set2": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15003_4.png?vh=2024123000",
+      "name": "EM / EM\n2-piece",
+      "icon2": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15043_4.png?vh=2024123000",
+      "set1": "Wanderer's Troupe",
+      "set2": "Aubade of Morningstar and Moon"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15046_4.png?vh=2024123000",
+      "name": "Disenchant \n-ment in Deep Shadow",
+      "icon2": "",
+      "set1": "Disenchantment in Deep Shadow",
+      "set2": ""
+    },
+    {
+      "icon": "",
+      "name": "",
+      "icon2": "",
+      "set1": "",
+      "set2": ""
+    }
+  ],
+  "statRows": [
+    {
+      "slot": "sands",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Sands_of_Eon.png",
+      "label": "EM"
+    },
+    {
+      "slot": "goblet",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Goblet_of_Eonothem.png",
+      "label": "EM"
+    },
+    {
+      "slot": "circlet",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Circlet_of_Logos.png",
+      "label": "Crit Rate / DMG"
+    }
+  ],
+  "chips": [
+    {
+      "row": 0,
+      "icon": "",
+      "label": "2000+"
+    },
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/CRIT%20Rate.png",
+      "label": "70%"
+    },
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/CRIT%20DMG.png",
+      "label": "140-200%"
+    },
+    {
+      "row": 1,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Energy%20Recharge.png",
+      "label": "120-140%"
+    },
+    {
+      "row": 1,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Elemental%20Mastery.png",
+      "label": "600+"
+    }
+  ],
+  "substats": [
+    "er",
+    "critrate",
+    "critdmg",
+    "em",
+    ""
+  ],
+  "substatOps": [
+    ">",
+    "=",
+    ">",
+    ""
+  ],
+  "weapons": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Chernaya.png?vh=2024123000",
+      "name": "Starsealed Edict",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_SakuraFan.png?vh=2024123000",
+      "name": "Sunny Morning Sleep-In",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Sistrum.png?vh=2024123000",
+      "name": "Reliquary of Truth",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_FrostScepter.png?vh=2024123000",
+      "name": "Winter's Heavy Heart",
+      "rarity": 4,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Ziedas.png?vh=2024123000",
+      "name": "Dawning Frost",
+      "rarity": 4,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Troupe.png?vh=2024123000",
+      "name": "The Widsith",
+      "rarity": 4,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_SeeliesLute.png?vh=2024123000",
+      "name": "Etherlight Spindlelute",
+      "rarity": 4,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Fossil.png?vh=2024123000",
+      "name": "Sacrificial Fragments",
+      "rarity": 4,
+      "refine": "5"
+    }
+  ],
+  "synergies": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Odette.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Odette"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Yae.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Yae Miko"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Valeriy.png?vh=2024123000",
+      "rarity": 4,
+      "badge": "",
+      "name": "Valeriy"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerBoy.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "https://gi.yatta.moe/assets/UI/UI_Buff_Element_Ice.png?vh=2024123000",
+      "name": "Traveler (Boy)"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Qiqi.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Qiqi"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Beidou.png?vh=2024123000",
+      "rarity": 4,
+      "badge": "",
+      "name": "Beidou"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Diona.png?vh=2024123000",
+      "rarity": 4,
+      "badge": "",
+      "name": "Diona"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Sucrose.png?vh=2024123000",
+      "rarity": 4,
+      "badge": "",
+      "name": "Sucrose"
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    },
+    {
+      "icon": "",
+      "rarity": 5,
+      "badge": "",
+      "name": ""
+    }
+  ],
+  "ascension": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_202.png?vh=2024123000",
+      "qty": "2.09M"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104142.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112149.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_101274.png?vh=2024123000",
+      "qty": "168"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104003.png?vh=2024123000",
+      "qty": "419"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104143.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112150.png?vh=2024123000",
+      "qty": "30"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_113093.png?vh=2024123000",
+      "qty": "46"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104141.png?vh=2024123000",
+      "qty": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104144.png?vh=2024123000",
+      "qty": "6"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112151.png?vh=2024123000",
+      "qty": "36"
+    }
+  ],
+  "talents": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_202.png?vh=2024123000",
+      "qty": "4.96M"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112149.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104365.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_113081.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112150.png?vh=2024123000",
+      "qty": "66"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104366.png?vh=2024123000",
+      "qty": "63"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104319.png?vh=2024123000",
+      "qty": "3"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112151.png?vh=2024123000",
+      "qty": "93"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104367.png?vh=2024123000",
+      "qty": "114"
+    }
+  ],
+  "credit": "Mango · iuhence",
+  "discord": "discord.gg/FortOfFans"
+}
