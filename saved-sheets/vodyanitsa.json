@@ -1,0 +1,323 @@
+{
+  "charId": "Vodyanitsa",
+  "name": "Vodyanitsa",
+  "element": "hydro",
+  "weaponType": "WEAPON_CATALYST",
+  "splash": "https://gi.yatta.moe/assets/UI/UI_Gacha_AvatarImg_Vodyanitsa.png?vh=2024123000",
+  "skillIcon": "",
+  "burstIcon": "https://gi.yatta.moe/assets/UI/Skill_S_Vodyanitsa_01.png?vh=2024123000",
+  "normalIcon": "",
+  "constIcon": "https://gi.yatta.moe/assets/UI/UI_Talent_S_Vodyanitsa_02.png?vh=2024123000",
+  "region": "SNEZHNAYA",
+  "regionIcon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/regionIcons/snezhnaya.png",
+  "bgImage": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/backgrounds/snezhnaya.png",
+  "namecardBg": "https://enka.network/ui/UI_NameCardPic_Vodyanitsa_Alpha.png",
+  "skillOps": [
+    "",
+    ""
+  ],
+  "constLevel": "C2",
+  "constTitle": "Echoes That Pierce the Snow",
+  "constDesc": "C2 grants the active character ++50% CRIT DMG++ to ++Cryo++ and ++Hydro++ DMG, ++60% CRIT DMG++ to ++Stellar Swirl++ DMG, and extends ++Skill++ duration by 9s.",
+  "notes": [
+    "Vodyanitsa caps at ++65,000 HP++ to increase party members' ++Cryo++, ++Hydro++ and ++Stellar Swirl++ DMG.",
+    "Heals the active character and reduces nearby enemies’ ++Hydro/Cryo++ RES by up to 30% and ++Anemo++ RES by 35% whenever a ++Wandering Vortex++ forms or detonates."
+  ],
+  "artifacts": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15017_4.png?vh=2024123000",
+      "name": "Tenacity of\nthe Millelith",
+      "icon2": "",
+      "set1": "Tenacity of the Millelith",
+      "set2": ""
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15017_4.png?vh=2024123000",
+      "name": "HP% / HP%\n2-piece",
+      "icon2": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15030_4.png?vh=2024123000",
+      "set1": "Tenacity of the Millelith",
+      "set2": "Vourukasha's Glow"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15033_4.png?vh=2024123000",
+      "name": "Song of\nDays Past",
+      "icon2": "",
+      "set1": "Song of Days Past",
+      "set2": ""
+    },
+    {
+      "icon": "",
+      "name": "",
+      "icon2": "",
+      "set1": "",
+      "set2": ""
+    }
+  ],
+  "statRows": [
+    {
+      "slot": "sands",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Sands_of_Eon.png",
+      "label": "HP%"
+    },
+    {
+      "slot": "goblet",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Goblet_of_Eonothem.png",
+      "label": "HP%"
+    },
+    {
+      "slot": "circlet",
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Icon_Circlet_of_Logos.png",
+      "label": "HP%"
+    }
+  ],
+  "chips": [
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/HP.png",
+      "label": "60,000+"
+    },
+    {
+      "row": 0,
+      "icon": "https://raw.githubusercontent.com/iuhence/genshin/refs/heads/main/sheet/Energy%20Recharge.png",
+      "label": "100%"
+    },
+    {
+      "row": 0,
+      "icon": "",
+      "label": ""
+    },
+    {
+      "row": 1,
+      "icon": "",
+      "label": ""
+    },
+    {
+      "row": 1,
+      "icon": "",
+      "label": ""
+    }
+  ],
+  "substats": [
+    "hp",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "substatOps": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "weapons": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Bludnye.png?vh=2024123000",
+      "name": "Hymn of the Maelstrom",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Pulpfic.png?vh=2024123000",
+      "name": "Thrilling Tales of Dragon Slayers",
+      "rarity": 3,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Kaleido.png?vh=2024123000",
+      "name": "Everlasting Moonglow",
+      "rarity": 5,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Umpakati.png?vh=2024123000",
+      "name": "Waveriding Whirl",
+      "rarity": 4,
+      "refine": "5"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_Proto.png?vh=2024123000",
+      "name": "Prototype Amber",
+      "rarity": 4,
+      "refine": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_EquipIcon_Catalyst_ConchSprayer.png?vh=2024123000",
+      "name": "Ash-Graven Drinking Horn",
+      "rarity": 4,
+      "refine": "1"
+    },
+    {
+      "icon": "",
+      "name": "",
+      "rarity": 4,
+      "refine": "1"
+    },
+    {
+      "icon": "",
+      "name": "",
+      "rarity": 4,
+      "refine": "1"
+    }
+  ],
+  "synergies": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Vesna.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Vesna"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Mizuki.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Yumemizuki Mizuki"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_SkirkNew.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Skirk"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Furina.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Furina"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Neuvillette.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Neuvillette"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Odette.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Odette"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_MarionetteNew.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Sandrone"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_PlayerGirl.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "https://gi.yatta.moe/assets/UI/UI_Buff_Element_Ice.png?vh=2024123000",
+      "name": "Traveler (Girl)"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Wriothesley.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Wriothesley"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Escoffier.png?vh=2024123000",
+      "rarity": 5,
+      "badge": "",
+      "name": "Escoffier"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Chongyun.png?vh=2024123000",
+      "rarity": 4,
+      "badge": "",
+      "name": "Chongyun"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xingqiu.png?vh=2024123000",
+      "rarity": 4,
+      "badge": "",
+      "name": "Xingqiu"
+    }
+  ],
+  "ascension": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_202.png?vh=2024123000",
+      "qty": "2.09M"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104122.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112149.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_101275.png?vh=2024123000",
+      "qty": "168"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104003.png?vh=2024123000",
+      "qty": "419"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104123.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112150.png?vh=2024123000",
+      "qty": "30"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_113090.png?vh=2024123000",
+      "qty": "46"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104121.png?vh=2024123000",
+      "qty": "1"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104124.png?vh=2024123000",
+      "qty": "6"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112151.png?vh=2024123000",
+      "qty": "36"
+    }
+  ],
+  "talents": [
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_202.png?vh=2024123000",
+      "qty": "4.96M"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112149.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104368.png?vh=2024123000",
+      "qty": "9"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_113082.png?vh=2024123000",
+      "qty": "18"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112150.png?vh=2024123000",
+      "qty": "66"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104369.png?vh=2024123000",
+      "qty": "63"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104319.png?vh=2024123000",
+      "qty": "3"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_112151.png?vh=2024123000",
+      "qty": "93"
+    },
+    {
+      "icon": "https://gi.yatta.moe/assets/UI/UI_ItemIcon_104370.png?vh=2024123000",
+      "qty": "114"
+    }
+  ],
+  "credit": "Mango · iuhence",
+  "discord": "discord.gg/FortOfFans"
+}
